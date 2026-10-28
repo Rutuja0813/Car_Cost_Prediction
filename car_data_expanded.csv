@@ -1,0 +1,2101 @@
+brand,model,year,fuel,transmission,km_driven,engine,owners,mileage,price
+honda,city,2020,petrol,manual,45000,1498,1,17,650000
+honda,civic,2019,petrol,automatic,52000,1799,1,16,850000
+honda,amaze,2021,diesel,manual,30000,1498,1,24,720000
+hyundai,verna,2020,petrol,manual,40000,1497,1,18,620000
+hyundai,creta,2021,diesel,automatic,35000,1493,1,19,1050000
+hyundai,i20,2022,petrol,manual,25000,1197,1,20,680000
+toyota,corolla,2019,petrol,automatic,50000,1794,1,16,700000
+toyota,fortuner,2020,diesel,automatic,45000,2755,1,14,2800000
+toyota,innova,2021,diesel,manual,38000,2393,1,15,1750000
+audi,a4,2019,petrol,automatic,42000,1998,1,15,2800000
+audi,q3,2020,petrol,automatic,35000,1984,1,14,3200000
+audi,a6,2018,diesel,automatic,55000,1968,2,17,3600000
+bmw,3 series,2020,petrol,automatic,30000,1998,1,15,3500000
+bmw,5 series,2019,diesel,automatic,45000,1995,1,18,4200000
+bmw,x1,2021,petrol,automatic,28000,1998,1,14,3900000
+chevrolet,beat,2018,diesel,manual,60000,1199,2,25,300000
+chevrolet,cruze,2017,diesel,manual,70000,1998,2,18,450000
+chevrolet,enjoy,2018,diesel,manual,65000,1248,2,19,380000
+jaguar,xe,2019,petrol,automatic,40000,1997,1,13,3200000
+jaguar,xf,2018,diesel,automatic,52000,1999,2,14,3000000
+jaguar,f pace,2020,diesel,automatic,35000,1999,1,12,4500000
+mazda,mazda3,2020,petrol,automatic,35000,1998,1,17,1600000
+mazda,cx5,2019,diesel,automatic,45000,2191,1,15,2200000
+mazda,cx3,2021,petrol,automatic,25000,1998,1,18,1900000
+mercedes,c class,2020,petrol,automatic,30000,1991,1,15,4200000
+mercedes,e class,2019,diesel,automatic,40000,1950,1,16,5000000
+mercedes,gla,2021,petrol,automatic,25000,1332,1,17,4300000
+mitsubishi,lancer,2016,petrol,manual,70000,1499,2,14,450000
+mitsubishi,outlander,2018,petrol,automatic,55000,2360,1,12,1500000
+mitsubishi,pajero,2017,diesel,manual,65000,2477,2,12,1300000
+nissan,micra,2019,petrol,manual,45000,1198,1,19,420000
+nissan,sunny,2018,diesel,manual,55000,1461,2,22,400000
+nissan,kicks,2020,petrol,manual,35000,1498,1,14,850000
+porsche,cayenne,2019,petrol,automatic,30000,2995,1,10,7500000
+porsche,macan,2020,petrol,automatic,25000,1984,1,12,6500000
+porsche,panamera,2018,petrol,automatic,40000,2995,1,11,7000000
+subaru,forester,2019,petrol,automatic,45000,2498,1,13,1800000
+subaru,outback,2020,petrol,automatic,35000,2498,1,14,2200000
+subaru,impreza,2021,petrol,manual,25000,1995,1,16,1500000
+volkswagen,polo,2020,petrol,manual,40000,999,1,18,550000
+volkswagen,vento,2019,petrol,manual,45000,1598,1,16,600000
+volkswagen,tiguan,2021,diesel,automatic,30000,1968,1,15,1800000
+volvo,xc40,2020,petrol,automatic,30000,1969,1,14,2800000
+volvo,xc60,2019,diesel,automatic,40000,1969,1,15,3500000
+volvo,s90,2018,diesel,automatic,50000,1969,2,16,3000000
+honda,city,2017,petrol,manual,17960,1562,1,17.7,535000
+honda,civic,2021,petrol,automatic,51563,1788,1,15.6,732000
+honda,amaze,2021,diesel,manual,7658,1508,1,21.9,634000
+hyundai,verna,2021,petrol,manual,71786,1568,1,19,469000
+hyundai,creta,2021,diesel,automatic,46201,1537,1,20.8,890000
+hyundai,i20,2024,petrol,manual,22037,1194,1,18.9,698000
+toyota,corolla,2020,petrol,automatic,64122,1866,1,17,593000
+toyota,fortuner,2021,diesel,automatic,62651,2592,1,14.8,2426000
+toyota,innova,2021,diesel,manual,21389,2290,1,13.8,1487000
+audi,a4,2016,petrol,automatic,46231,2011,1,15.2,1955000
+audi,q3,2023,petrol,automatic,30026,2068,1,13.3,2843000
+audi,a6,2018,diesel,automatic,43891,2035,2,17.6,2354000
+bmw,3 series,2019,petrol,automatic,20074,2051,1,14.9,2635000
+bmw,5 series,2019,diesel,automatic,62300,1967,1,17.3,2840000
+bmw,x1,2020,petrol,automatic,3000,2096,1,14.6,3522000
+chevrolet,beat,2016,diesel,manual,35725,1166,2,23,160000
+chevrolet,cruze,2019,diesel,manual,76181,1921,2,19.3,305000
+chevrolet,enjoy,2017,diesel,manual,106646,1270,2,17.4,256000
+jaguar,xe,2017,petrol,automatic,49278,1902,1,13.2,2426000
+jaguar,xf,2018,diesel,automatic,68513,1885,2,15.3,1860000
+jaguar,f pace,2018,diesel,automatic,110760,2104,1,12.2,3114000
+mazda,mazda3,2020,petrol,automatic,19085,1883,1,18.1,1264000
+mazda,cx5,2018,diesel,automatic,32355,2133,1,15.5,1409000
+mazda,cx3,2022,petrol,automatic,3000,1887,2,18.2,1755000
+mercedes,c class,2023,petrol,automatic,54220,1941,1,15,3478000
+mercedes,e class,2019,diesel,automatic,8134,2065,1,17.3,4134000
+mercedes,gla,2018,petrol,automatic,58956,1375,1,17.5,3444000
+mitsubishi,lancer,2015,petrol,manual,38163,1452,2,12.9,228000
+mitsubishi,outlander,2017,petrol,automatic,26216,2306,1,12.7,871000
+mitsubishi,pajero,2020,diesel,manual,101594,2368,1,12.4,1107000
+nissan,micra,2021,petrol,manual,22168,1242,1,19.8,319000
+nissan,sunny,2018,diesel,manual,42411,1426,3,21.9,245000
+nissan,kicks,2023,petrol,manual,29179,1508,2,14.4,744000
+porsche,cayenne,2016,petrol,automatic,78797,3151,2,10.6,4136000
+porsche,macan,2021,petrol,automatic,6043,2055,1,11.4,6044000
+porsche,panamera,2020,petrol,automatic,26234,2950,1,10.8,5498000
+subaru,forester,2019,petrol,automatic,11527,2572,1,13.8,1535000
+subaru,outback,2019,petrol,automatic,79946,2441,1,13,1494000
+subaru,impreza,2022,petrol,manual,3000,1880,1,14.6,1400000
+volkswagen,polo,2020,petrol,manual,44041,977,1,18,373000
+volkswagen,vento,2019,petrol,manual,118166,1550,1,16.2,447000
+volkswagen,tiguan,2024,diesel,automatic,3000,2047,1,13.7,1862000
+volvo,xc40,2022,petrol,automatic,3000,2040,2,14.8,2158000
+volvo,xc60,2021,diesel,automatic,43966,2053,1,14.9,2793000
+volvo,s90,2015,diesel,automatic,4325,1949,1,15.1,1941000
+honda,city,2020,petrol,manual,17624,1461,1,18.5,483000
+honda,civic,2019,petrol,automatic,97342,1832,1,17,596000
+honda,amaze,2019,diesel,manual,3000,1533,1,25.7,541000
+hyundai,verna,2021,petrol,manual,59000,1575,1,16.7,500000
+hyundai,creta,2021,diesel,automatic,16827,1573,1,18.1,915000
+hyundai,i20,2020,petrol,manual,55038,1207,1,19.9,577000
+toyota,corolla,2019,petrol,automatic,3000,1887,1,14.8,607000
+toyota,fortuner,2022,diesel,automatic,30155,2812,1,13.5,2257000
+toyota,innova,2023,diesel,manual,34164,2295,1,13.9,1524000
+audi,a4,2016,petrol,automatic,22666,2103,1,15.8,2129000
+audi,q3,2017,petrol,automatic,56887,1893,1,15,2232000
+audi,a6,2015,diesel,automatic,57804,1957,2,18.1,2269000
+bmw,3 series,2017,petrol,automatic,43628,2065,1,13.8,2057000
+bmw,5 series,2021,diesel,automatic,63250,2114,2,18.6,3640000
+bmw,x1,2024,petrol,automatic,9678,1912,1,14.8,3900000
+chevrolet,beat,2021,diesel,manual,56943,1134,1,25.5,265000
+chevrolet,cruze,2015,diesel,manual,89485,2101,1,19,229000
+chevrolet,enjoy,2018,diesel,manual,100193,1267,2,20.3,252000
+jaguar,xe,2016,petrol,automatic,60893,2112,1,13.3,2098000
+jaguar,xf,2016,diesel,automatic,4396,1921,3,12.9,1998000
+jaguar,f pace,2020,diesel,automatic,30079,2016,1,11.1,3528000
+mazda,mazda3,2020,petrol,automatic,26381,2104,1,15.8,1293000
+mazda,cx5,2016,diesel,automatic,46803,2133,1,14.4,1540000
+mazda,cx3,2024,petrol,automatic,3332,1930,1,18.3,1802000
+mercedes,c class,2020,petrol,automatic,58755,2008,1,15.2,3374000
+mercedes,e class,2020,diesel,automatic,31179,1961,1,15.8,4012000
+mercedes,gla,2023,petrol,automatic,27379,1399,1,17,3744000
+mitsubishi,lancer,2016,petrol,manual,87305,1561,3,12.8,262000
+mitsubishi,outlander,2020,petrol,automatic,7383,2223,1,12.8,1082000
+mitsubishi,pajero,2015,diesel,manual,25934,2437,2,13.1,641000
+nissan,micra,2021,petrol,manual,4415,1182,1,19.5,379000
+nissan,sunny,2018,diesel,manual,37102,1520,1,24.2,325000
+nissan,kicks,2021,petrol,manual,71499,1479,1,12.8,682000
+porsche,cayenne,2022,petrol,automatic,5530,3141,1,9.1,6799000
+porsche,macan,2023,petrol,automatic,3000,1885,1,11.4,6157000
+porsche,panamera,2017,petrol,automatic,35861,2836,1,10.7,5315000
+subaru,forester,2018,petrol,automatic,52706,2604,1,13,1318000
+subaru,outback,2019,petrol,automatic,11891,2468,1,15.2,1630000
+subaru,impreza,2020,petrol,manual,20849,2097,1,15.8,1102000
+volkswagen,polo,2019,petrol,manual,16607,1015,1,19.7,449000
+volkswagen,vento,2020,petrol,manual,3000,1687,2,16.9,476000
+volkswagen,tiguan,2023,diesel,automatic,8225,2004,1,16.4,1725000
+volvo,xc40,2023,petrol,automatic,18978,1880,1,12.7,2842000
+volvo,xc60,2022,diesel,automatic,3000,1948,1,15.9,3447000
+volvo,s90,2016,diesel,automatic,69836,1860,3,15.6,2123000
+honda,city,2022,petrol,manual,56604,1564,1,17.8,523000
+honda,civic,2016,petrol,automatic,40543,1692,1,16,535000
+honda,amaze,2022,diesel,manual,65428,1451,2,25.7,563000
+hyundai,verna,2021,petrol,manual,31927,1457,1,19.4,522000
+hyundai,creta,2021,diesel,automatic,53179,1582,1,18.2,908000
+hyundai,i20,2020,petrol,manual,3000,1211,2,19.6,463000
+toyota,corolla,2016,petrol,automatic,21302,1730,1,14.5,461000
+toyota,fortuner,2020,diesel,automatic,3000,2838,1,14.1,2215000
+toyota,innova,2021,diesel,manual,50533,2401,1,15.7,1375000
+audi,a4,2021,petrol,automatic,63731,1915,1,16.1,2530000
+audi,q3,2021,petrol,automatic,56236,1978,1,15.4,2850000
+audi,a6,2016,diesel,automatic,42543,1983,2,15.6,2192000
+bmw,3 series,2023,petrol,automatic,54753,2108,1,13.8,2902000
+bmw,5 series,2022,diesel,automatic,39771,1950,1,16.4,3381000
+bmw,x1,2024,petrol,automatic,4325,1951,1,13.7,3414000
+chevrolet,beat,2017,diesel,manual,59685,1200,3,24.9,211000
+chevrolet,cruze,2017,diesel,manual,67499,1955,3,17.1,265000
+chevrolet,enjoy,2020,diesel,manual,84950,1180,2,18.9,251000
+jaguar,xe,2018,petrol,automatic,47231,1879,1,12.2,2654000
+jaguar,xf,2018,diesel,automatic,82880,2021,2,15,2282000
+jaguar,f pace,2020,diesel,automatic,25335,2084,1,11.4,3562000
+mazda,mazda3,2023,petrol,automatic,64537,2073,2,16.4,1256000
+mazda,cx5,2019,diesel,automatic,64240,2080,1,13.6,1601000
+mazda,cx3,2022,petrol,automatic,68727,2055,1,17.3,1445000
+mercedes,c class,2022,petrol,automatic,3000,1913,1,15,3210000
+mercedes,e class,2019,diesel,automatic,63249,1863,2,17.3,3525000
+mercedes,gla,2019,petrol,automatic,5601,1347,1,16.3,2918000
+mitsubishi,lancer,2013,petrol,manual,97539,1566,2,13.3,219000
+mitsubishi,outlander,2020,petrol,automatic,88470,2379,1,12.6,1115000
+mitsubishi,pajero,2020,diesel,manual,49974,2483,1,11.8,1056000
+nissan,micra,2017,petrol,manual,52103,1264,1,17.8,341000
+nissan,sunny,2016,diesel,manual,3000,1502,2,23.7,285000
+nissan,kicks,2021,petrol,manual,45294,1511,1,12.9,729000
+porsche,cayenne,2019,petrol,automatic,67114,3083,1,9,5588000
+porsche,macan,2023,petrol,automatic,28407,1941,2,12.3,5807000
+porsche,panamera,2019,petrol,automatic,27266,2886,2,10.7,4880000
+subaru,forester,2018,petrol,automatic,3000,2634,1,12.3,1590000
+subaru,outback,2019,petrol,automatic,56606,2404,1,14.1,1517000
+subaru,impreza,2018,petrol,manual,43831,2032,1,16,1132000
+volkswagen,polo,2019,petrol,manual,39272,1047,1,19.7,350000
+volkswagen,vento,2018,petrol,manual,77368,1608,1,14.7,408000
+volkswagen,tiguan,2021,diesel,automatic,31003,1888,1,16.1,1430000
+volvo,xc40,2022,petrol,automatic,40131,2030,1,14.8,2251000
+volvo,xc60,2017,diesel,automatic,6797,1913,2,16,2538000
+volvo,s90,2016,diesel,automatic,75672,2052,2,17.2,1838000
+honda,city,2019,petrol,manual,36734,1577,1,18.3,481000
+honda,civic,2019,petrol,automatic,62758,1785,1,14.8,672000
+honda,amaze,2023,diesel,manual,38050,1508,2,22.6,580000
+hyundai,verna,2018,petrol,manual,63046,1516,2,17.9,406000
+hyundai,creta,2023,diesel,automatic,44955,1536,2,18.9,879000
+hyundai,i20,2022,petrol,manual,60634,1239,1,20.5,533000
+toyota,corolla,2017,petrol,automatic,23939,1824,2,14.4,379000
+toyota,fortuner,2019,diesel,automatic,45899,2640,1,14.4,2075000
+toyota,innova,2020,diesel,manual,66721,2439,1,15.3,1322000
+audi,a4,2019,petrol,automatic,61125,2081,1,13.6,2254000
+audi,q3,2018,petrol,automatic,27131,2022,2,13.4,2207000
+audi,a6,2017,diesel,automatic,64170,2020,2,17,2253000
+bmw,3 series,2019,petrol,automatic,19223,1984,1,13.9,3009000
+bmw,5 series,2021,diesel,automatic,54849,1953,1,16.9,3172000
+bmw,x1,2024,petrol,automatic,29356,1944,1,13,4074000
+chevrolet,beat,2020,diesel,manual,76019,1228,2,27.3,232000
+chevrolet,cruze,2014,diesel,manual,100878,1974,2,18.7,320000
+chevrolet,enjoy,2021,diesel,manual,50497,1313,2,20.3,307000
+jaguar,xe,2019,petrol,automatic,20179,1936,1,14.1,2598000
+jaguar,xf,2015,diesel,automatic,46694,2062,2,13.9,1913000
+jaguar,f pace,2021,diesel,automatic,38077,2020,1,11.8,4198000
+mazda,mazda3,2020,petrol,automatic,33433,1959,1,18,1332000
+mazda,cx5,2020,diesel,automatic,39038,2322,1,14.1,1906000
+mazda,cx3,2024,petrol,automatic,62317,1895,2,16.7,1848000
+mercedes,c class,2018,petrol,automatic,3000,2070,1,14,3211000
+mercedes,e class,2018,diesel,automatic,44689,2065,1,17.6,3904000
+mercedes,gla,2018,petrol,automatic,57290,1326,2,16.7,3121000
+mitsubishi,lancer,2015,petrol,manual,34748,1557,2,13.8,309000
+mitsubishi,outlander,2016,petrol,automatic,48748,2259,1,12.9,1124000
+mitsubishi,pajero,2015,diesel,manual,76708,2329,1,11.8,781000
+nissan,micra,2021,petrol,manual,42440,1147,2,20.4,351000
+nissan,sunny,2015,diesel,manual,50711,1503,1,20.9,247000
+nissan,kicks,2022,petrol,manual,3000,1448,1,13.2,673000
+porsche,cayenne,2018,petrol,automatic,56495,3111,1,9.8,5221000
+porsche,macan,2018,petrol,automatic,27875,2073,1,13.1,4213000
+porsche,panamera,2018,petrol,automatic,33380,3079,1,11.1,5368000
+subaru,forester,2019,petrol,automatic,35546,2528,1,13,1536000
+subaru,outback,2017,petrol,automatic,15188,2464,2,13.4,1518000
+subaru,impreza,2022,petrol,manual,41454,1876,1,15.1,1173000
+volkswagen,polo,2022,petrol,manual,79826,996,2,19.6,477000
+volkswagen,vento,2019,petrol,manual,20910,1543,1,14.7,452000
+volkswagen,tiguan,2018,diesel,automatic,13085,1926,1,14.6,1379000
+volvo,xc40,2023,petrol,automatic,17283,2061,1,15.2,2389000
+volvo,xc60,2019,diesel,automatic,8920,2052,1,15.8,2929000
+volvo,s90,2018,diesel,automatic,63622,1927,1,17.4,1964000
+honda,city,2022,petrol,manual,14212,1497,2,18.6,567000
+honda,civic,2019,petrol,automatic,66833,1733,1,14.7,588000
+honda,amaze,2022,diesel,manual,57166,1522,1,26,583000
+hyundai,verna,2018,petrol,manual,79436,1490,1,18.6,429000
+hyundai,creta,2018,diesel,automatic,80230,1433,1,19.8,793000
+hyundai,i20,2024,petrol,manual,21997,1244,1,21.7,576000
+toyota,corolla,2020,petrol,automatic,40251,1885,2,16.3,602000
+toyota,fortuner,2023,diesel,automatic,39331,2835,1,15,2246000
+toyota,innova,2021,diesel,manual,3513,2502,1,14.6,1372000
+audi,a4,2019,petrol,automatic,3000,2007,1,16.4,1898000
+audi,q3,2023,petrol,automatic,36390,1954,1,12.9,2922000
+audi,a6,2019,diesel,automatic,29093,1950,3,16.6,2775000
+bmw,3 series,2018,petrol,automatic,40502,1951,2,16.1,2660000
+bmw,5 series,2019,diesel,automatic,25226,2035,1,17.6,3201000
+bmw,x1,2024,petrol,automatic,3000,1912,1,13.1,4176000
+chevrolet,beat,2016,diesel,manual,70711,1267,2,22.9,184000
+chevrolet,cruze,2016,diesel,manual,81122,1887,2,18.1,214000
+chevrolet,enjoy,2016,diesel,manual,88814,1308,2,17.3,187000
+jaguar,xe,2017,petrol,automatic,89736,1915,1,13.1,1931000
+jaguar,xf,2020,diesel,automatic,75824,2111,2,13.5,2631000
+jaguar,f pace,2018,diesel,automatic,67386,2049,1,12.8,3260000
+mazda,mazda3,2021,petrol,automatic,44477,2009,1,17.1,1341000
+mazda,cx5,2021,diesel,automatic,36746,2161,1,14.6,1694000
+mazda,cx3,2021,petrol,automatic,3000,2101,1,18.4,1582000
+mercedes,c class,2018,petrol,automatic,45668,1995,2,16.3,2413000
+mercedes,e class,2018,diesel,automatic,27216,1879,1,16.2,3535000
+mercedes,gla,2023,petrol,automatic,14109,1351,1,18.2,3512000
+mitsubishi,lancer,2016,petrol,manual,95882,1579,2,13.7,239000
+mitsubishi,outlander,2019,petrol,automatic,59714,2409,1,11.8,1091000
+mitsubishi,pajero,2019,diesel,manual,40846,2360,3,12,896000
+nissan,micra,2017,petrol,manual,12569,1195,2,18.7,294000
+nissan,sunny,2020,diesel,manual,62541,1545,2,21.9,259000
+nissan,kicks,2022,petrol,manual,32264,1549,2,13.8,725000
+porsche,cayenne,2018,petrol,automatic,39290,3057,1,10.9,6104000
+porsche,macan,2019,petrol,automatic,3000,1974,1,11.3,4581000
+porsche,panamera,2017,petrol,automatic,3000,3137,1,10.5,5010000
+subaru,forester,2017,petrol,automatic,56699,2507,1,14,1084000
+subaru,outback,2022,petrol,automatic,3000,2392,1,13.4,2016000
+subaru,impreza,2023,petrol,manual,15806,1990,1,16.9,1348000
+volkswagen,polo,2020,petrol,manual,23760,982,2,16.8,403000
+volkswagen,vento,2022,petrol,manual,96935,1554,1,14.8,499000
+volkswagen,tiguan,2024,diesel,automatic,35467,2070,1,15,1889000
+volvo,xc40,2020,petrol,automatic,23912,2066,1,14.8,2034000
+volvo,xc60,2020,diesel,automatic,56049,1947,1,15.2,2495000
+volvo,s90,2019,diesel,automatic,69479,2051,2,17.6,1934000
+honda,city,2017,petrol,manual,42271,1517,1,18.5,449000
+honda,civic,2017,petrol,automatic,11256,1704,1,17.4,647000
+honda,amaze,2022,diesel,manual,50059,1554,1,22.9,641000
+hyundai,verna,2023,petrol,manual,15554,1457,2,19.7,543000
+hyundai,creta,2022,diesel,automatic,29281,1542,1,18.5,799000
+hyundai,i20,2023,petrol,manual,3000,1131,1,18.8,568000
+toyota,corolla,2016,petrol,automatic,7856,1766,1,15,513000
+toyota,fortuner,2022,diesel,automatic,40480,2818,2,15.4,2597000
+toyota,innova,2018,diesel,manual,10242,2466,1,13.8,1223000
+audi,a4,2018,petrol,automatic,55210,2069,1,16.2,1841000
+audi,q3,2017,petrol,automatic,37043,2090,1,13.7,2322000
+audi,a6,2016,diesel,automatic,70012,2001,1,18,2724000
+bmw,3 series,2018,petrol,automatic,71351,1890,2,16.1,2655000
+bmw,5 series,2020,diesel,automatic,52359,2100,1,18.8,3376000
+bmw,x1,2024,petrol,automatic,41079,2058,1,13.4,3728000
+chevrolet,beat,2019,diesel,manual,90407,1184,2,26.4,215000
+chevrolet,cruze,2016,diesel,manual,63852,1923,2,19.1,273000
+chevrolet,enjoy,2016,diesel,manual,36396,1269,3,18.9,200000
+jaguar,xe,2020,petrol,automatic,47330,2066,2,12.7,2182000
+jaguar,xf,2016,diesel,automatic,10008,2025,2,14.4,1667000
+jaguar,f pace,2023,diesel,automatic,21016,1998,1,10.9,3680000
+mazda,mazda3,2022,petrol,automatic,57699,1890,1,17.8,1476000
+mazda,cx5,2021,diesel,automatic,12524,2199,2,15.8,1631000
+mazda,cx3,2020,petrol,automatic,12171,2031,2,18.9,1463000
+mercedes,c class,2017,petrol,automatic,56647,2084,1,15.9,2759000
+mercedes,e class,2017,diesel,automatic,43291,2049,2,15.5,3267000
+mercedes,gla,2019,petrol,automatic,7769,1410,1,15.6,3635000
+mitsubishi,lancer,2013,petrol,manual,70975,1568,2,14.4,232000
+mitsubishi,outlander,2019,petrol,automatic,19423,2266,1,12.7,1144000
+mitsubishi,pajero,2019,diesel,manual,30893,2532,3,12.9,928000
+nissan,micra,2021,petrol,manual,24862,1257,1,18.2,359000
+nissan,sunny,2016,diesel,manual,113958,1483,2,20.4,240000
+nissan,kicks,2021,petrol,manual,7650,1482,1,12.8,790000
+porsche,cayenne,2021,petrol,automatic,21914,3011,1,10.5,6571000
+porsche,macan,2022,petrol,automatic,3000,1991,2,12.2,5482000
+porsche,panamera,2019,petrol,automatic,14431,2993,1,10.9,4711000
+subaru,forester,2018,petrol,automatic,3000,2348,1,12.8,1144000
+subaru,outback,2018,petrol,automatic,31150,2630,1,13.1,1652000
+subaru,impreza,2020,petrol,manual,27401,1931,1,17.3,1316000
+volkswagen,polo,2019,petrol,manual,3000,973,2,17.1,480000
+volkswagen,vento,2016,petrol,manual,57583,1625,2,17.2,342000
+volkswagen,tiguan,2022,diesel,automatic,47518,1954,2,16.5,1538000
+volvo,xc40,2023,petrol,automatic,3000,1980,1,14.2,2541000
+volvo,xc60,2020,diesel,automatic,16582,1929,1,13.9,2922000
+volvo,s90,2015,diesel,automatic,50850,1982,2,14.5,1999000
+honda,city,2023,petrol,manual,62474,1418,1,17.3,540000
+honda,civic,2019,petrol,automatic,69046,1787,1,14.6,536000
+honda,amaze,2021,diesel,manual,47641,1507,1,22.3,650000
+hyundai,verna,2018,petrol,manual,12323,1496,1,17.3,436000
+hyundai,creta,2023,diesel,automatic,71974,1531,1,17.2,959000
+hyundai,i20,2023,petrol,manual,3000,1227,1,18.4,593000
+toyota,corolla,2017,petrol,automatic,34878,1784,1,15.7,581000
+toyota,fortuner,2020,diesel,automatic,60676,2596,1,15.2,2275000
+toyota,innova,2023,diesel,manual,49321,2528,2,15.2,1567000
+audi,a4,2022,petrol,automatic,25982,2015,1,14,2578000
+audi,q3,2018,petrol,automatic,64353,1986,2,13.5,1952000
+audi,a6,2021,diesel,automatic,10301,1959,1,18.5,3276000
+bmw,3 series,2021,petrol,automatic,3000,1936,1,15.4,3020000
+bmw,5 series,2020,diesel,automatic,35128,1896,2,18.6,3312000
+bmw,x1,2023,petrol,automatic,34379,1958,1,15,3488000
+chevrolet,beat,2020,diesel,manual,52554,1144,3,26.9,203000
+chevrolet,cruze,2015,diesel,manual,82612,1947,2,16.7,274000
+chevrolet,enjoy,2016,diesel,manual,67721,1265,2,18.5,206000
+jaguar,xe,2019,petrol,automatic,52705,1972,1,13.8,2553000
+jaguar,xf,2016,diesel,automatic,57157,1962,1,13.8,2412000
+jaguar,f pace,2019,diesel,automatic,60094,2062,1,11.5,3609000
+mazda,mazda3,2023,petrol,automatic,23249,1985,2,17.2,1593000
+mazda,cx5,2017,diesel,automatic,16115,2281,1,14.5,1561000
+mazda,cx3,2018,petrol,automatic,29141,1999,1,16.5,1423000
+mercedes,c class,2023,petrol,automatic,33378,1992,2,16.1,3996000
+mercedes,e class,2022,diesel,automatic,27569,2062,1,15,4376000
+mercedes,gla,2021,petrol,automatic,12973,1281,1,17.6,3619000
+mitsubishi,lancer,2015,petrol,manual,50150,1474,2,15,293000
+mitsubishi,outlander,2018,petrol,automatic,74938,2358,1,11.1,1027000
+mitsubishi,pajero,2016,diesel,manual,52185,2509,3,12.5,705000
+nissan,micra,2019,petrol,manual,54871,1203,1,17.8,353000
+nissan,sunny,2019,diesel,manual,46104,1392,2,20.9,291000
+nissan,kicks,2018,petrol,manual,34103,1477,1,13.5,580000
+porsche,cayenne,2017,petrol,automatic,34119,3171,1,10.9,5054000
+porsche,macan,2017,petrol,automatic,30072,2066,1,12.9,4992000
+porsche,panamera,2020,petrol,automatic,19082,2849,1,12.1,5755000
+subaru,forester,2016,petrol,automatic,37728,2588,1,13.3,1043000
+subaru,outback,2023,petrol,automatic,47904,2482,1,13.3,2186000
+subaru,impreza,2019,petrol,manual,30592,1977,1,15.4,1098000
+volkswagen,polo,2019,petrol,manual,45022,981,1,18.2,401000
+volkswagen,vento,2020,petrol,manual,35170,1688,2,17.1,445000
+volkswagen,tiguan,2019,diesel,automatic,62736,1912,2,16.3,1458000
+volvo,xc40,2018,petrol,automatic,5490,2044,1,12.8,2186000
+volvo,xc60,2018,diesel,automatic,12035,2062,1,14.1,2851000
+volvo,s90,2018,diesel,automatic,36439,1875,2,17.6,2113000
+honda,city,2022,petrol,manual,77427,1429,2,18.5,501000
+honda,civic,2020,petrol,automatic,44209,1732,1,17.3,628000
+honda,amaze,2022,diesel,manual,20291,1469,1,24.7,690000
+hyundai,verna,2019,petrol,manual,36833,1465,2,17.5,409000
+hyundai,creta,2021,diesel,automatic,35956,1473,1,17.8,878000
+hyundai,i20,2020,petrol,manual,10972,1236,1,19.5,553000
+toyota,corolla,2016,petrol,automatic,61379,1699,2,15.8,409000
+toyota,fortuner,2017,diesel,automatic,22473,2632,1,14.7,2158000
+toyota,innova,2022,diesel,manual,18022,2466,1,16,1539000
+audi,a4,2020,petrol,automatic,98832,2034,1,14.8,2395000
+audi,q3,2019,petrol,automatic,7857,2076,1,14.7,2932000
+audi,a6,2016,diesel,automatic,18764,1923,2,16.3,2321000
+bmw,3 series,2023,petrol,automatic,60307,2106,1,15.8,3102000
+bmw,5 series,2016,diesel,automatic,53631,1979,1,18.4,2217000
+bmw,x1,2020,petrol,automatic,22930,1963,1,13.4,3289000
+chevrolet,beat,2019,diesel,manual,70825,1137,3,24.5,248000
+chevrolet,cruze,2016,diesel,manual,119040,2016,2,18,292000
+chevrolet,enjoy,2017,diesel,manual,76922,1276,1,20.4,241000
+jaguar,xe,2018,petrol,automatic,69678,2052,1,12.4,2456000
+jaguar,xf,2019,diesel,automatic,38807,1885,3,12.8,2030000
+jaguar,f pace,2022,diesel,automatic,22176,1996,1,12,4168000
+mazda,mazda3,2023,petrol,automatic,70588,2091,1,17.6,1402000
+mazda,cx5,2016,diesel,automatic,37969,2181,1,14.5,1507000
+mazda,cx3,2018,petrol,automatic,3000,2022,1,16.7,1293000
+mercedes,c class,2020,petrol,automatic,29126,1883,1,15.8,3420000
+mercedes,e class,2016,diesel,automatic,78466,2010,1,15.5,4116000
+mercedes,gla,2024,petrol,automatic,7013,1272,1,17.2,4371000
+mitsubishi,lancer,2016,petrol,manual,39185,1454,3,14.2,320000
+mitsubishi,outlander,2018,petrol,automatic,29051,2336,1,12.1,1052000
+mitsubishi,pajero,2020,diesel,manual,42036,2605,2,11.1,931000
+nissan,micra,2017,petrol,manual,3000,1136,2,19.7,302000
+nissan,sunny,2021,diesel,manual,15145,1430,2,22.9,324000
+nissan,kicks,2019,petrol,manual,33830,1587,1,13,685000
+porsche,cayenne,2021,petrol,automatic,18510,2961,1,10.2,6658000
+porsche,macan,2018,petrol,automatic,6863,2014,1,12.1,4537000
+porsche,panamera,2020,petrol,automatic,3000,3059,1,10.1,6023000
+subaru,forester,2022,petrol,automatic,80275,2525,2,12.6,1531000
+subaru,outback,2019,petrol,automatic,75297,2363,1,13,1937000
+subaru,impreza,2020,petrol,manual,72373,1901,1,15.5,1222000
+volkswagen,polo,2022,petrol,manual,14439,987,2,16.4,454000
+volkswagen,vento,2022,petrol,manual,64232,1659,1,16,588000
+volkswagen,tiguan,2021,diesel,automatic,16087,1863,2,16.3,1453000
+volvo,xc40,2023,petrol,automatic,14280,1879,1,12.9,2385000
+volvo,xc60,2016,diesel,automatic,21728,1902,1,14,2403000
+volvo,s90,2017,diesel,automatic,38735,2067,3,17.3,1829000
+honda,city,2021,petrol,manual,64815,1411,1,18.6,514000
+honda,civic,2018,petrol,automatic,49027,1801,1,15.8,651000
+honda,amaze,2024,diesel,manual,51198,1439,1,23.1,677000
+hyundai,verna,2017,petrol,manual,3000,1458,1,18.7,489000
+hyundai,creta,2024,diesel,automatic,66660,1525,1,19.9,947000
+hyundai,i20,2022,petrol,manual,69375,1219,1,22,639000
+toyota,corolla,2019,petrol,automatic,64436,1820,2,16.6,537000
+toyota,fortuner,2019,diesel,automatic,3000,2615,1,13.1,2280000
+toyota,innova,2019,diesel,manual,67854,2365,1,15.8,1132000
+audi,a4,2021,petrol,automatic,19501,1899,1,14.7,2225000
+audi,q3,2022,petrol,automatic,55474,2044,1,12.7,2651000
+audi,a6,2020,diesel,automatic,11343,2059,2,18.1,2662000
+bmw,3 series,2017,petrol,automatic,51828,2085,1,16,2450000
+bmw,5 series,2018,diesel,automatic,74472,2012,1,17.7,2869000
+bmw,x1,2022,petrol,automatic,44638,1997,1,15.1,3314000
+chevrolet,beat,2016,diesel,manual,92923,1245,2,23.5,176000
+chevrolet,cruze,2016,diesel,manual,95853,2089,3,18.8,263000
+chevrolet,enjoy,2015,diesel,manual,77215,1295,3,19.9,209000
+jaguar,xe,2018,petrol,automatic,66995,1931,1,13.9,2233000
+jaguar,xf,2016,diesel,automatic,26185,2094,2,12.8,1949000
+jaguar,f pace,2020,diesel,automatic,24802,1992,1,12.2,3941000
+mazda,mazda3,2021,petrol,automatic,17201,2070,1,18.2,1333000
+mazda,cx5,2021,diesel,automatic,83121,2236,1,14.3,1718000
+mazda,cx3,2018,petrol,automatic,54645,2088,2,16.8,1233000
+mercedes,c class,2023,petrol,automatic,14785,1999,2,14.7,3617000
+mercedes,e class,2019,diesel,automatic,82649,1873,2,16.5,3172000
+mercedes,gla,2023,petrol,automatic,58451,1288,1,17,3892000
+mitsubishi,lancer,2016,petrol,manual,81695,1473,2,13.7,323000
+mitsubishi,outlander,2017,petrol,automatic,44611,2471,1,10.8,1055000
+mitsubishi,pajero,2017,diesel,manual,77615,2382,2,12.1,734000
+nissan,micra,2018,petrol,manual,77054,1236,2,18.5,257000
+nissan,sunny,2020,diesel,manual,48765,1413,2,23,324000
+nissan,kicks,2019,petrol,manual,71377,1534,1,14.5,703000
+porsche,cayenne,2020,petrol,automatic,3000,2841,1,10.9,6725000
+porsche,macan,2022,petrol,automatic,32858,2055,2,12.9,5400000
+porsche,panamera,2019,petrol,automatic,41756,2909,1,10.2,5952000
+subaru,forester,2017,petrol,automatic,3000,2556,1,13.5,1247000
+subaru,outback,2020,petrol,automatic,3000,2570,2,15.4,1708000
+subaru,impreza,2023,petrol,manual,3000,2060,1,17.6,1426000
+volkswagen,polo,2021,petrol,manual,3000,978,1,18.8,433000
+volkswagen,vento,2017,petrol,manual,17647,1510,2,14.5,413000
+volkswagen,tiguan,2019,diesel,automatic,46607,1918,1,15.5,1632000
+volvo,xc40,2023,petrol,automatic,53117,1903,1,14.9,2490000
+volvo,xc60,2019,diesel,automatic,65160,2012,1,15.4,2542000
+volvo,s90,2019,diesel,automatic,37941,1953,1,15.8,2473000
+honda,city,2023,petrol,manual,55003,1546,1,16.6,635000
+honda,civic,2018,petrol,automatic,49178,1894,1,16.5,622000
+honda,amaze,2024,diesel,manual,23304,1465,1,22.1,675000
+hyundai,verna,2021,petrol,manual,17756,1414,1,18.4,500000
+hyundai,creta,2024,diesel,automatic,18507,1453,1,18.6,925000
+hyundai,i20,2020,petrol,manual,45276,1172,1,20.2,632000
+toyota,corolla,2018,petrol,automatic,50238,1718,1,17.5,560000
+toyota,fortuner,2022,diesel,automatic,70497,2657,1,14.3,2681000
+toyota,innova,2020,diesel,manual,69104,2358,1,15.4,1464000
+audi,a4,2018,petrol,automatic,14823,1914,1,15.1,1862000
+audi,q3,2022,petrol,automatic,70580,1873,1,14.6,2485000
+audi,a6,2015,diesel,automatic,31865,1989,2,17.6,2241000
+bmw,3 series,2020,petrol,automatic,43263,2013,1,16.1,2644000
+bmw,5 series,2020,diesel,automatic,3000,1878,1,19.8,3290000
+bmw,x1,2022,petrol,automatic,35945,1956,1,14.8,3020000
+chevrolet,beat,2015,diesel,manual,63683,1258,2,25.1,168000
+chevrolet,cruze,2016,diesel,manual,53406,2069,2,19.7,296000
+chevrolet,enjoy,2021,diesel,manual,86022,1216,2,19.3,317000
+jaguar,xe,2017,petrol,automatic,69707,1998,1,13.8,2233000
+jaguar,xf,2019,diesel,automatic,3000,1946,3,12.9,1988000
+jaguar,f pace,2020,diesel,automatic,16228,1918,1,12.3,3378000
+mazda,mazda3,2023,petrol,automatic,42197,1991,1,17.5,1316000
+mazda,cx5,2020,diesel,automatic,25364,2124,2,15.7,1827000
+mazda,cx3,2021,petrol,automatic,57894,2058,1,17.3,1584000
+mercedes,c class,2020,petrol,automatic,48876,2098,1,13.8,3374000
+mercedes,e class,2018,diesel,automatic,3000,1967,1,15.4,4368000
+mercedes,gla,2018,petrol,automatic,24286,1378,1,15.5,3750000
+mitsubishi,lancer,2013,petrol,manual,122816,1410,2,13.1,243000
+mitsubishi,outlander,2019,petrol,automatic,63267,2431,1,13.1,1260000
+mitsubishi,pajero,2019,diesel,manual,62666,2357,2,12.4,902000
+nissan,micra,2019,petrol,manual,50473,1157,1,18.1,299000
+nissan,sunny,2016,diesel,manual,117145,1452,3,21.6,246000
+nissan,kicks,2019,petrol,manual,67474,1555,1,14.6,578000
+porsche,cayenne,2016,petrol,automatic,57568,2911,1,9.4,5819000
+porsche,macan,2022,petrol,automatic,50668,1914,1,11.9,6077000
+porsche,panamera,2016,petrol,automatic,3000,3162,2,10.9,4983000
+subaru,forester,2020,petrol,automatic,30837,2634,1,12.2,1419000
+subaru,outback,2017,petrol,automatic,3032,2542,1,13.1,1344000
+subaru,impreza,2020,petrol,manual,23128,1983,1,16.4,1200000
+volkswagen,polo,2023,petrol,manual,52617,979,1,17.4,464000
+volkswagen,vento,2017,petrol,manual,43029,1634,1,17.4,384000
+volkswagen,tiguan,2022,diesel,automatic,60639,2030,1,16,1542000
+volvo,xc40,2017,petrol,automatic,41316,2086,1,12.8,1924000
+volvo,xc60,2016,diesel,automatic,72958,1894,1,13.5,2049000
+volvo,s90,2017,diesel,automatic,21171,1867,1,14.6,2165000
+honda,city,2017,petrol,manual,49006,1537,2,17.3,389000
+honda,civic,2019,petrol,automatic,22521,1904,1,16.6,666000
+honda,amaze,2020,diesel,manual,50310,1474,1,21.6,537000
+hyundai,verna,2022,petrol,manual,18862,1418,1,16.5,493000
+hyundai,creta,2022,diesel,automatic,17664,1408,1,19.2,892000
+hyundai,i20,2020,petrol,manual,39198,1147,1,21.7,580000
+toyota,corolla,2021,petrol,automatic,67378,1776,1,14.4,551000
+toyota,fortuner,2021,diesel,automatic,72707,2851,1,14.3,2282000
+toyota,innova,2022,diesel,manual,44635,2344,1,14.3,1556000
+audi,a4,2017,petrol,automatic,49032,2040,1,14.1,1869000
+audi,q3,2018,petrol,automatic,28149,1889,1,13.1,2394000
+audi,a6,2016,diesel,automatic,38233,2062,2,17.2,1868000
+bmw,3 series,2023,petrol,automatic,47903,2070,1,16.1,3176000
+bmw,5 series,2018,diesel,automatic,61304,1884,1,19.1,3359000
+bmw,x1,2019,petrol,automatic,3000,2045,1,12.8,2886000
+chevrolet,beat,2018,diesel,manual,62242,1264,1,23.2,206000
+chevrolet,cruze,2018,diesel,manual,59125,2075,2,17.9,284000
+chevrolet,enjoy,2019,diesel,manual,77471,1214,2,17.5,294000
+jaguar,xe,2016,petrol,automatic,13345,1981,1,12.6,2044000
+jaguar,xf,2016,diesel,automatic,89101,2060,2,14,2118000
+jaguar,f pace,2020,diesel,automatic,33368,2119,1,12.5,3430000
+mazda,mazda3,2020,petrol,automatic,7042,2102,1,18.5,1242000
+mazda,cx5,2019,diesel,automatic,15058,2086,1,13.8,1751000
+mazda,cx3,2023,petrol,automatic,3060,2023,1,19.2,1773000
+mercedes,c class,2021,petrol,automatic,55119,1937,1,13.6,3469000
+mercedes,e class,2018,diesel,automatic,42793,1901,1,16.1,3458000
+mercedes,gla,2019,petrol,automatic,23987,1359,1,18,3210000
+mitsubishi,lancer,2019,petrol,manual,20162,1416,1,13.5,357000
+mitsubishi,outlander,2021,petrol,automatic,74983,2407,1,11.6,1278000
+mitsubishi,pajero,2014,diesel,manual,54440,2535,2,12.4,917000
+nissan,micra,2019,petrol,manual,61129,1150,1,19,362000
+nissan,sunny,2018,diesel,manual,79424,1424,2,23.6,235000
+nissan,kicks,2020,petrol,manual,23458,1578,1,13.8,748000
+porsche,cayenne,2017,petrol,automatic,25795,3081,2,10.9,5848000
+porsche,macan,2020,petrol,automatic,45249,2064,1,12.1,5296000
+porsche,panamera,2017,petrol,automatic,40493,2997,1,10.1,4799000
+subaru,forester,2019,petrol,automatic,57687,2418,1,13.3,1445000
+subaru,outback,2018,petrol,automatic,3000,2546,2,13.7,1518000
+subaru,impreza,2024,petrol,manual,35928,2072,2,16.2,1260000
+volkswagen,polo,2022,petrol,manual,26365,978,1,17.4,472000
+volkswagen,vento,2021,petrol,manual,57627,1572,1,17.2,535000
+volkswagen,tiguan,2019,diesel,automatic,3000,2013,1,15.2,1708000
+volvo,xc40,2021,petrol,automatic,4909,2064,1,12.7,2499000
+volvo,xc60,2018,diesel,automatic,51079,2028,1,15.9,2408000
+volvo,s90,2020,diesel,automatic,29312,1957,3,16.2,2202000
+honda,city,2022,petrol,manual,32147,1576,2,17.2,590000
+honda,civic,2022,petrol,automatic,70451,1853,1,16.6,726000
+honda,amaze,2020,diesel,manual,28951,1562,1,24.5,640000
+hyundai,verna,2022,petrol,manual,42993,1561,1,17.7,564000
+hyundai,creta,2024,diesel,automatic,9560,1492,1,20.2,1116000
+hyundai,i20,2023,petrol,manual,3000,1265,1,21.7,575000
+toyota,corolla,2016,petrol,automatic,52604,1798,1,17.2,515000
+toyota,fortuner,2023,diesel,automatic,73756,2640,1,14.9,2245000
+toyota,innova,2018,diesel,manual,56308,2452,1,15.9,1229000
+audi,a4,2017,petrol,automatic,36078,2009,1,16.2,2088000
+audi,q3,2019,petrol,automatic,88661,1892,1,15,2180000
+audi,a6,2016,diesel,automatic,83483,2039,2,17,1990000
+bmw,3 series,2020,petrol,automatic,30478,2095,1,14.1,2893000
+bmw,5 series,2016,diesel,automatic,64055,1949,1,18.9,3015000
+bmw,x1,2019,petrol,automatic,34277,2075,1,13.3,3117000
+chevrolet,beat,2019,diesel,manual,53668,1231,2,27.1,209000
+chevrolet,cruze,2019,diesel,manual,81640,2071,2,17.4,280000
+chevrolet,enjoy,2018,diesel,manual,74275,1239,3,18.2,249000
+jaguar,xe,2019,petrol,automatic,41048,1911,2,12.3,2573000
+jaguar,xf,2017,diesel,automatic,11950,2093,2,14.3,1802000
+jaguar,f pace,2022,diesel,automatic,3000,2028,1,11.5,4195000
+mazda,mazda3,2019,petrol,automatic,30995,2039,1,17.5,1454000
+mazda,cx5,2019,diesel,automatic,59779,2214,1,13.7,1729000
+mazda,cx3,2021,petrol,automatic,19499,1885,1,19.1,1775000
+mercedes,c class,2018,petrol,automatic,25583,1931,1,16.1,3106000
+mercedes,e class,2019,diesel,automatic,58868,1852,1,14.9,3419000
+mercedes,gla,2019,petrol,automatic,33830,1394,1,17.6,3228000
+mitsubishi,lancer,2015,petrol,manual,68396,1513,1,13.6,263000
+mitsubishi,outlander,2021,petrol,automatic,53710,2310,1,12.2,1366000
+mitsubishi,pajero,2014,diesel,manual,50150,2473,1,11.2,990000
+nissan,micra,2020,petrol,manual,46823,1132,1,19.4,375000
+nissan,sunny,2021,diesel,manual,35097,1382,2,19.9,302000
+nissan,kicks,2019,petrol,manual,65981,1419,1,13,650000
+porsche,cayenne,2022,petrol,automatic,57353,3088,1,11,6826000
+porsche,macan,2019,petrol,automatic,43898,2087,1,11.9,5315000
+porsche,panamera,2016,petrol,automatic,74745,3103,1,12,5159000
+subaru,forester,2019,petrol,automatic,37876,2520,2,13.2,1303000
+subaru,outback,2020,petrol,automatic,41674,2480,1,13.2,1831000
+subaru,impreza,2018,petrol,manual,3000,1935,1,17.2,1054000
+volkswagen,polo,2022,petrol,manual,3000,1029,1,17.9,470000
+volkswagen,vento,2016,petrol,manual,59746,1692,2,15.4,379000
+volkswagen,tiguan,2020,diesel,automatic,32071,1930,1,15.5,1583000
+volvo,xc40,2019,petrol,automatic,3000,2038,1,14,2274000
+volvo,xc60,2016,diesel,automatic,5620,2048,2,16.3,2698000
+volvo,s90,2016,diesel,automatic,48687,1933,3,16.6,1736000
+honda,city,2022,petrol,manual,60520,1526,1,17.5,523000
+honda,civic,2016,petrol,automatic,31673,1758,1,15,673000
+honda,amaze,2023,diesel,manual,48106,1552,1,24.3,591000
+hyundai,verna,2022,petrol,manual,47334,1484,1,17.2,563000
+hyundai,creta,2020,diesel,automatic,23398,1409,1,19.8,817000
+hyundai,i20,2024,petrol,manual,3000,1194,2,20.5,595000
+toyota,corolla,2016,petrol,automatic,83783,1695,1,16.9,496000
+toyota,fortuner,2020,diesel,automatic,39830,2832,1,14.6,2298000
+toyota,innova,2021,diesel,manual,53348,2362,1,15.3,1464000
+audi,a4,2020,petrol,automatic,30573,1991,1,13.6,2467000
+audi,q3,2020,petrol,automatic,46957,1926,1,14.3,2404000
+audi,a6,2016,diesel,automatic,102446,2086,1,16.7,2271000
+bmw,3 series,2022,petrol,automatic,70266,2097,1,15.6,2638000
+bmw,5 series,2020,diesel,automatic,17558,2098,2,17.1,3427000
+bmw,x1,2022,petrol,automatic,53555,2027,1,13.5,3187000
+chevrolet,beat,2018,diesel,manual,52073,1228,1,25.2,241000
+chevrolet,cruze,2017,diesel,manual,74766,2075,3,18,273000
+chevrolet,enjoy,2018,diesel,manual,56444,1251,2,19.2,240000
+jaguar,xe,2022,petrol,automatic,95729,2098,2,12.2,2776000
+jaguar,xf,2015,diesel,automatic,43714,2007,1,14.2,1914000
+jaguar,f pace,2017,diesel,automatic,3000,2035,1,12,3263000
+mazda,mazda3,2022,petrol,automatic,3000,1921,1,18.3,1590000
+mazda,cx5,2021,diesel,automatic,55265,2312,1,16.3,1859000
+mazda,cx3,2019,petrol,automatic,35851,1904,2,17.6,1521000
+mercedes,c class,2023,petrol,automatic,3000,1893,1,15,3618000
+mercedes,e class,2020,diesel,automatic,47705,1955,2,15,3626000
+mercedes,gla,2022,petrol,automatic,3000,1356,1,15.6,3611000
+mitsubishi,lancer,2013,petrol,manual,42534,1449,2,13.9,222000
+mitsubishi,outlander,2018,petrol,automatic,71700,2310,1,11.4,1189000
+mitsubishi,pajero,2019,diesel,manual,37756,2541,2,11.7,922000
+nissan,micra,2019,petrol,manual,3000,1148,1,17.7,300000
+nissan,sunny,2016,diesel,manual,46780,1472,3,22.2,233000
+nissan,kicks,2019,petrol,manual,3000,1443,1,13.5,697000
+porsche,cayenne,2019,petrol,automatic,35424,2988,1,10.8,6008000
+porsche,macan,2018,petrol,automatic,3216,1940,1,12.8,4937000
+porsche,panamera,2018,petrol,automatic,38957,3148,1,11,5121000
+subaru,forester,2018,petrol,automatic,3000,2633,1,13.4,1451000
+subaru,outback,2019,petrol,automatic,48441,2634,2,13.7,1598000
+subaru,impreza,2023,petrol,manual,3000,1904,1,16.9,1544000
+volkswagen,polo,2023,petrol,manual,48130,1017,1,17.7,499000
+volkswagen,vento,2019,petrol,manual,9438,1532,1,15.8,508000
+volkswagen,tiguan,2018,diesel,automatic,37369,2068,1,15.1,1211000
+volvo,xc40,2020,petrol,automatic,23611,2048,1,13.1,2413000
+volvo,xc60,2017,diesel,automatic,77174,2065,1,14.4,2213000
+volvo,s90,2017,diesel,automatic,56667,2019,3,16.7,1653000
+honda,city,2021,petrol,manual,36654,1498,2,17.9,580000
+honda,civic,2022,petrol,automatic,26916,1896,1,17,818000
+honda,amaze,2022,diesel,manual,45268,1494,1,25.4,626000
+hyundai,verna,2017,petrol,manual,35482,1499,1,16.3,456000
+hyundai,creta,2019,diesel,automatic,30703,1498,1,17.2,781000
+hyundai,i20,2019,petrol,manual,10918,1188,1,19.7,546000
+toyota,corolla,2019,petrol,automatic,65307,1688,1,17.3,528000
+toyota,fortuner,2021,diesel,automatic,55797,2874,1,13.7,2051000
+toyota,innova,2024,diesel,manual,33832,2381,1,16.4,1556000
+audi,a4,2020,petrol,automatic,28740,2025,1,16.5,2338000
+audi,q3,2022,petrol,automatic,13724,1980,1,15.2,2546000
+audi,a6,2016,diesel,automatic,24190,1869,1,17.8,2263000
+bmw,3 series,2023,petrol,automatic,44688,2090,1,14,3488000
+bmw,5 series,2021,diesel,automatic,78188,2054,1,18.9,3570000
+bmw,x1,2023,petrol,automatic,6975,1964,1,13.9,3395000
+chevrolet,beat,2015,diesel,manual,79048,1267,2,25.9,191000
+chevrolet,cruze,2017,diesel,manual,64439,2087,1,18.4,315000
+chevrolet,enjoy,2020,diesel,manual,49163,1283,3,20,286000
+jaguar,xe,2021,petrol,automatic,34511,2034,2,13.7,2505000
+jaguar,xf,2018,diesel,automatic,48978,2084,2,12.7,2122000
+jaguar,f pace,2018,diesel,automatic,20447,2006,1,12.8,3612000
+mazda,mazda3,2020,petrol,automatic,48864,2108,2,18.3,1304000
+mazda,cx5,2020,diesel,automatic,58094,2274,1,15.9,1668000
+mazda,cx3,2018,petrol,automatic,3000,1929,2,16.4,1321000
+mercedes,c class,2021,petrol,automatic,32059,1956,1,15.3,3346000
+mercedes,e class,2022,diesel,automatic,21083,2066,2,16.3,3915000
+mercedes,gla,2023,petrol,automatic,3078,1316,1,16.8,4156000
+mitsubishi,lancer,2018,petrol,manual,84055,1588,2,13.6,347000
+mitsubishi,outlander,2016,petrol,automatic,46068,2396,1,12,999000
+mitsubishi,pajero,2015,diesel,manual,100875,2606,1,12.7,770000
+nissan,micra,2022,petrol,manual,130046,1135,1,17.9,378000
+nissan,sunny,2017,diesel,manual,78527,1391,3,23.9,297000
+nissan,kicks,2021,petrol,manual,40313,1413,1,14,636000
+porsche,cayenne,2020,petrol,automatic,7938,3078,1,10.9,5981000
+porsche,macan,2020,petrol,automatic,8689,1881,2,12.4,5611000
+porsche,panamera,2021,petrol,automatic,65507,2990,2,11.5,5880000
+subaru,forester,2022,petrol,automatic,32863,2491,2,13.2,1467000
+subaru,outback,2023,petrol,automatic,30213,2398,1,14.3,1885000
+subaru,impreza,2023,petrol,manual,44920,2000,2,15.4,1423000
+volkswagen,polo,2020,petrol,manual,27942,958,2,18.8,451000
+volkswagen,vento,2017,petrol,manual,33511,1571,1,15.8,415000
+volkswagen,tiguan,2023,diesel,automatic,12853,2026,1,13.6,1717000
+volvo,xc40,2020,petrol,automatic,30266,2058,2,13.1,2346000
+volvo,xc60,2017,diesel,automatic,40984,2034,1,15.1,2762000
+volvo,s90,2017,diesel,automatic,35905,1996,2,15.1,1835000
+honda,city,2020,petrol,manual,20736,1413,1,16.3,487000
+honda,civic,2021,petrol,automatic,21011,1870,1,15.2,656000
+honda,amaze,2019,diesel,manual,30755,1572,1,22.1,562000
+hyundai,verna,2018,petrol,manual,49319,1558,1,19.7,443000
+hyundai,creta,2019,diesel,automatic,37312,1508,1,17.3,757000
+hyundai,i20,2021,petrol,manual,75822,1150,1,18.6,642000
+toyota,corolla,2022,petrol,automatic,61656,1746,1,16.5,647000
+toyota,fortuner,2019,diesel,automatic,91059,2864,1,15.3,2245000
+toyota,innova,2022,diesel,manual,88563,2330,1,15.8,1554000
+audi,a4,2022,petrol,automatic,57886,2117,1,13.8,2459000
+audi,q3,2017,petrol,automatic,4790,2048,1,12.7,2298000
+audi,a6,2015,diesel,automatic,42894,1947,1,15.9,2157000
+bmw,3 series,2022,petrol,automatic,28557,1907,1,13.8,2975000
+bmw,5 series,2020,diesel,automatic,22461,1896,1,17.7,3480000
+bmw,x1,2018,petrol,automatic,3000,2041,1,13.3,2783000
+chevrolet,beat,2019,diesel,manual,21153,1199,2,23,198000
+chevrolet,cruze,2014,diesel,manual,92044,1885,2,19.8,239000
+chevrolet,enjoy,2019,diesel,manual,64033,1282,3,18.2,246000
+jaguar,xe,2019,petrol,automatic,40175,2056,1,13.7,2527000
+jaguar,xf,2019,diesel,automatic,35832,1945,3,14.9,2352000
+jaguar,f pace,2018,diesel,automatic,18958,2017,1,11.5,3034000
+mazda,mazda3,2020,petrol,automatic,42746,2075,2,15.6,1296000
+mazda,cx5,2020,diesel,automatic,31567,2318,1,15.5,1895000
+mazda,cx3,2018,petrol,automatic,26536,1935,1,18,1264000
+mercedes,c class,2017,petrol,automatic,6509,1915,2,14.5,3241000
+mercedes,e class,2020,diesel,automatic,46250,1997,2,15.4,3346000
+mercedes,gla,2018,petrol,automatic,66640,1301,2,17.6,2866000
+mitsubishi,lancer,2017,petrol,manual,103078,1489,1,14,328000
+mitsubishi,outlander,2021,petrol,automatic,9790,2395,2,12.8,1176000
+mitsubishi,pajero,2016,diesel,manual,92020,2425,2,11.5,761000
+nissan,micra,2016,petrol,manual,52543,1158,1,17.9,281000
+nissan,sunny,2017,diesel,manual,26228,1534,2,20.7,306000
+nissan,kicks,2020,petrol,manual,35551,1430,2,13.8,564000
+porsche,cayenne,2022,petrol,automatic,12383,3062,1,10.8,6830000
+porsche,macan,2017,petrol,automatic,45578,1946,1,12.9,4603000
+porsche,panamera,2021,petrol,automatic,34085,3053,1,10.2,5532000
+subaru,forester,2021,petrol,automatic,21644,2362,2,13.7,1369000
+subaru,outback,2017,petrol,automatic,46379,2605,1,14.6,1647000
+subaru,impreza,2023,petrol,manual,15819,2035,2,15.7,1409000
+volkswagen,polo,2020,petrol,manual,79041,980,2,17.5,393000
+volkswagen,vento,2019,petrol,manual,37389,1569,1,16.9,527000
+volkswagen,tiguan,2021,diesel,automatic,60693,1931,1,15.3,1491000
+volvo,xc40,2018,petrol,automatic,34930,1996,1,12.8,2002000
+volvo,xc60,2016,diesel,automatic,29010,1926,1,16.2,2707000
+volvo,s90,2017,diesel,automatic,65362,1863,2,14.8,1816000
+honda,city,2020,petrol,manual,30965,1421,1,15.4,577000
+honda,civic,2022,petrol,automatic,21377,1805,1,15.6,757000
+honda,amaze,2021,diesel,manual,69507,1420,1,26.1,655000
+hyundai,verna,2022,petrol,manual,20107,1456,1,18.6,575000
+hyundai,creta,2018,diesel,automatic,38782,1404,1,18.8,839000
+hyundai,i20,2022,petrol,manual,15676,1219,1,19.2,593000
+toyota,corolla,2018,petrol,automatic,98174,1755,2,16.8,503000
+toyota,fortuner,2022,diesel,automatic,52162,2906,1,13.5,2492000
+toyota,innova,2022,diesel,manual,40623,2375,2,14.1,1621000
+audi,a4,2022,petrol,automatic,36929,2021,1,14.8,2546000
+audi,q3,2023,petrol,automatic,44386,1967,1,12.6,2963000
+audi,a6,2021,diesel,automatic,7872,1915,2,17.6,2821000
+bmw,3 series,2022,petrol,automatic,44344,2067,1,16.2,3182000
+bmw,5 series,2020,diesel,automatic,67583,2073,1,16.5,3281000
+bmw,x1,2018,petrol,automatic,18728,1944,2,13.8,2595000
+chevrolet,beat,2015,diesel,manual,55942,1239,2,23.5,151000
+chevrolet,cruze,2020,diesel,manual,93395,1989,1,18.5,377000
+chevrolet,enjoy,2015,diesel,manual,60112,1289,3,19.6,229000
+jaguar,xe,2017,petrol,automatic,46508,1981,1,12.3,2152000
+jaguar,xf,2017,diesel,automatic,26338,2042,2,13.7,2152000
+jaguar,f pace,2022,diesel,automatic,44568,2085,1,12.8,3910000
+mazda,mazda3,2021,petrol,automatic,82803,1945,2,16.8,1264000
+mazda,cx5,2016,diesel,automatic,43142,2293,1,15.9,1364000
+mazda,cx3,2024,petrol,automatic,3000,2015,2,19.4,1642000
+mercedes,c class,2022,petrol,automatic,49059,1964,1,16.3,3890000
+mercedes,e class,2016,diesel,automatic,28365,1928,1,15.6,4018000
+mercedes,gla,2022,petrol,automatic,12989,1287,1,16.9,4003000
+mitsubishi,lancer,2019,petrol,manual,59946,1454,2,14.4,365000
+mitsubishi,outlander,2021,petrol,automatic,70096,2461,1,10.9,1217000
+mitsubishi,pajero,2017,diesel,manual,48089,2561,3,12.4,845000
+nissan,micra,2020,petrol,manual,16724,1159,1,18,318000
+nissan,sunny,2019,diesel,manual,65493,1401,2,21.9,269000
+nissan,kicks,2017,petrol,manual,58461,1414,1,14.3,557000
+porsche,cayenne,2020,petrol,automatic,3000,2963,2,9.9,6712000
+porsche,macan,2017,petrol,automatic,3000,1939,2,11.2,4803000
+porsche,panamera,2018,petrol,automatic,31352,2852,1,9.9,4667000
+subaru,forester,2020,petrol,automatic,17930,2399,1,12.9,1394000
+subaru,outback,2020,petrol,automatic,42072,2398,1,12.7,1839000
+subaru,impreza,2023,petrol,manual,20531,1932,1,16.1,1292000
+volkswagen,polo,2017,petrol,manual,37652,997,1,18.4,422000
+volkswagen,vento,2019,petrol,manual,45670,1624,2,16.3,457000
+volkswagen,tiguan,2021,diesel,automatic,27534,2051,1,13.6,1408000
+volvo,xc40,2019,petrol,automatic,3000,2060,2,14.7,2096000
+volvo,xc60,2019,diesel,automatic,5808,2087,1,14.2,2922000
+volvo,s90,2020,diesel,automatic,67774,1983,2,14.8,2229000
+honda,city,2021,petrol,manual,3000,1418,1,15.9,527000
+honda,civic,2017,petrol,automatic,47808,1826,2,15.5,568000
+honda,amaze,2020,diesel,manual,8424,1499,1,26.3,560000
+hyundai,verna,2017,petrol,manual,55831,1439,1,18.3,492000
+hyundai,creta,2018,diesel,automatic,38271,1478,1,20.7,857000
+hyundai,i20,2024,petrol,manual,50715,1268,1,20.2,683000
+toyota,corolla,2022,petrol,automatic,31477,1750,2,14.5,573000
+toyota,fortuner,2023,diesel,automatic,55138,2758,1,14.9,2707000
+toyota,innova,2020,diesel,manual,20390,2515,2,15.3,1327000
+audi,a4,2020,petrol,automatic,35293,1982,1,15.2,2235000
+audi,q3,2017,petrol,automatic,46041,2097,1,13.4,2409000
+audi,a6,2017,diesel,automatic,54983,1863,3,15.4,2472000
+bmw,3 series,2017,petrol,automatic,9804,2101,1,14.5,2306000
+bmw,5 series,2020,diesel,automatic,40576,2033,2,16.5,2920000
+bmw,x1,2020,petrol,automatic,54361,2019,1,13.9,3485000
+chevrolet,beat,2018,diesel,manual,38568,1220,1,26.2,206000
+chevrolet,cruze,2020,diesel,manual,42718,2028,2,19.2,328000
+chevrolet,enjoy,2016,diesel,manual,65810,1249,1,19.1,212000
+jaguar,xe,2017,petrol,automatic,60846,2085,1,11.8,2222000
+jaguar,xf,2020,diesel,automatic,34398,1908,2,14.5,2164000
+jaguar,f pace,2018,diesel,automatic,36015,2009,1,11.4,3517000
+mazda,mazda3,2019,petrol,automatic,37592,1891,1,18.5,1312000
+mazda,cx5,2022,diesel,automatic,97789,2299,1,14.7,1671000
+mazda,cx3,2020,petrol,automatic,52968,1903,1,18.2,1604000
+mercedes,c class,2022,petrol,automatic,26476,1873,1,14.1,4129000
+mercedes,e class,2017,diesel,automatic,35112,2000,1,16.4,3745000
+mercedes,gla,2022,petrol,automatic,19803,1299,1,16.3,4010000
+mitsubishi,lancer,2013,petrol,manual,56728,1428,2,14.9,232000
+mitsubishi,outlander,2015,petrol,automatic,55310,2466,2,12.2,858000
+mitsubishi,pajero,2020,diesel,manual,49885,2374,2,12.9,980000
+nissan,micra,2022,petrol,manual,47929,1197,2,20.7,367000
+nissan,sunny,2017,diesel,manual,56212,1475,2,23,315000
+nissan,kicks,2019,petrol,manual,3000,1476,1,13.2,719000
+porsche,cayenne,2021,petrol,automatic,3000,2935,1,9.9,6612000
+porsche,macan,2023,petrol,automatic,3000,1922,1,11.4,6307000
+porsche,panamera,2020,petrol,automatic,22604,2820,1,11.3,4962000
+subaru,forester,2022,petrol,automatic,61029,2423,1,12.6,1510000
+subaru,outback,2020,petrol,automatic,43517,2470,1,13.5,2016000
+subaru,impreza,2020,petrol,manual,19289,1910,1,16.3,1119000
+volkswagen,polo,2021,petrol,manual,3000,969,1,16.8,501000
+volkswagen,vento,2021,petrol,manual,33637,1555,1,15.5,535000
+volkswagen,tiguan,2023,diesel,automatic,54066,2021,1,15.7,1786000
+volvo,xc40,2019,petrol,automatic,22841,2005,1,15.1,1999000
+volvo,xc60,2020,diesel,automatic,23721,2003,1,13.7,3232000
+volvo,s90,2017,diesel,automatic,31832,2036,3,17.1,2262000
+honda,city,2022,petrol,manual,72417,1525,1,17.6,524000
+honda,civic,2020,petrol,automatic,72414,1841,2,16.9,718000
+honda,amaze,2022,diesel,manual,53487,1490,1,26.1,696000
+hyundai,verna,2017,petrol,manual,59256,1481,1,17.3,397000
+hyundai,creta,2021,diesel,automatic,3000,1472,1,17.7,865000
+hyundai,i20,2020,petrol,manual,3000,1243,1,19.1,501000
+toyota,corolla,2020,petrol,automatic,96040,1693,1,17.5,558000
+toyota,fortuner,2023,diesel,automatic,25751,2592,1,15.2,2729000
+toyota,innova,2022,diesel,manual,68980,2352,2,14.8,1506000
+audi,a4,2017,petrol,automatic,16456,1927,1,16.3,2318000
+audi,q3,2018,petrol,automatic,69576,2094,2,13.4,2113000
+audi,a6,2019,diesel,automatic,55564,1986,2,17.8,2749000
+bmw,3 series,2018,petrol,automatic,40373,1924,1,13.7,2276000
+bmw,5 series,2021,diesel,automatic,53189,2069,1,19.1,3269000
+bmw,x1,2020,petrol,automatic,10625,2105,1,13.2,2915000
+chevrolet,beat,2015,diesel,manual,85777,1271,2,22.6,199000
+chevrolet,cruze,2014,diesel,manual,58838,2089,3,16.7,238000
+chevrolet,enjoy,2021,diesel,manual,116863,1222,2,20.4,277000
+jaguar,xe,2017,petrol,automatic,38293,1918,1,13,2663000
+jaguar,xf,2018,diesel,automatic,43767,1975,2,14.8,2111000
+jaguar,f pace,2017,diesel,automatic,74715,1905,1,13.2,3080000
+mazda,mazda3,2021,petrol,automatic,3000,1938,1,16.8,1487000
+mazda,cx5,2022,diesel,automatic,75567,2150,1,16,2049000
+mazda,cx3,2020,petrol,automatic,31143,2024,1,17.5,1641000
+mercedes,c class,2017,petrol,automatic,63466,2003,1,14.4,2708000
+mercedes,e class,2016,diesel,automatic,33273,1848,1,15.5,3969000
+mercedes,gla,2024,petrol,automatic,8707,1359,1,15.8,3703000
+mitsubishi,lancer,2014,petrol,manual,41750,1454,1,14.5,333000
+mitsubishi,outlander,2015,petrol,automatic,67576,2360,1,12.9,1117000
+mitsubishi,pajero,2018,diesel,manual,23340,2552,2,12.5,996000
+nissan,micra,2021,petrol,manual,18230,1208,1,18.2,351000
+nissan,sunny,2019,diesel,manual,69511,1375,2,22.3,274000
+nissan,kicks,2018,petrol,manual,73397,1504,1,12.8,568000
+porsche,cayenne,2019,petrol,automatic,36998,3030,1,9.9,5951000
+porsche,macan,2022,petrol,automatic,11148,2014,1,11.3,5941000
+porsche,panamera,2021,petrol,automatic,14367,2927,1,11.3,6081000
+subaru,forester,2018,petrol,automatic,54162,2366,1,12.5,1323000
+subaru,outback,2018,petrol,automatic,6642,2549,1,13.3,1616000
+subaru,impreza,2019,petrol,manual,36068,2063,1,15.6,1167000
+volkswagen,polo,2022,petrol,manual,29410,961,1,19.4,469000
+volkswagen,vento,2018,petrol,manual,61647,1677,1,17,455000
+volkswagen,tiguan,2021,diesel,automatic,24080,1881,1,14.1,1645000
+volvo,xc40,2019,petrol,automatic,3000,1996,1,15,2263000
+volvo,xc60,2020,diesel,automatic,55661,1987,2,15.8,2604000
+volvo,s90,2021,diesel,automatic,23867,1950,1,14.4,2828000
+honda,city,2017,petrol,manual,51403,1427,2,17.1,377000
+honda,civic,2017,petrol,automatic,63632,1875,1,14.6,497000
+honda,amaze,2024,diesel,manual,35094,1483,1,25.9,700000
+hyundai,verna,2020,petrol,manual,50536,1584,1,18.7,566000
+hyundai,creta,2019,diesel,automatic,7574,1421,2,20,921000
+hyundai,i20,2025,petrol,manual,26710,1219,2,19.3,607000
+toyota,corolla,2020,petrol,automatic,31378,1879,2,14.9,532000
+toyota,fortuner,2017,diesel,automatic,42713,2828,2,14.4,1820000
+toyota,innova,2021,diesel,manual,20003,2523,1,16.4,1389000
+audi,a4,2018,petrol,automatic,42820,1899,1,15.3,2063000
+audi,q3,2017,petrol,automatic,66949,2082,1,14.7,1965000
+audi,a6,2021,diesel,automatic,3106,1933,2,17.8,2690000
+bmw,3 series,2023,petrol,automatic,59921,1887,1,15.6,2810000
+bmw,5 series,2018,diesel,automatic,74369,1987,2,19.3,3288000
+bmw,x1,2024,petrol,automatic,3000,1989,2,14.9,3245000
+chevrolet,beat,2021,diesel,manual,60192,1202,2,27,230000
+chevrolet,cruze,2019,diesel,manual,67517,2013,2,18,338000
+chevrolet,enjoy,2017,diesel,manual,65734,1250,1,17.4,253000
+jaguar,xe,2020,petrol,automatic,62091,1926,1,12.6,2773000
+jaguar,xf,2018,diesel,automatic,91848,1967,2,13,2016000
+jaguar,f pace,2020,diesel,automatic,72368,1951,1,11.6,3152000
+mazda,mazda3,2023,petrol,automatic,27756,1992,2,16,1332000
+mazda,cx5,2020,diesel,automatic,56198,2293,1,16.3,1964000
+mazda,cx3,2022,petrol,automatic,3000,1884,2,17.1,1703000
+mercedes,c class,2021,petrol,automatic,50729,1932,1,15.3,3855000
+mercedes,e class,2022,diesel,automatic,69831,2026,1,16.7,4601000
+mercedes,gla,2021,petrol,automatic,3000,1277,1,15.9,3412000
+mitsubishi,lancer,2013,petrol,manual,85171,1465,2,13.2,205000
+mitsubishi,outlander,2017,petrol,automatic,51624,2263,1,12.8,1156000
+mitsubishi,pajero,2016,diesel,manual,42956,2337,2,12.7,913000
+nissan,micra,2022,petrol,manual,95111,1130,1,17.6,381000
+nissan,sunny,2018,diesel,manual,86298,1425,2,20.4,257000
+nissan,kicks,2020,petrol,manual,39436,1515,1,14.8,625000
+porsche,cayenne,2019,petrol,automatic,28545,3084,1,9.6,6247000
+porsche,macan,2022,petrol,automatic,25731,1876,2,13.2,5246000
+porsche,panamera,2015,petrol,automatic,45339,2901,1,10.8,4384000
+subaru,forester,2020,petrol,automatic,36916,2593,1,11.8,1568000
+subaru,outback,2020,petrol,automatic,47128,2452,1,13.9,1765000
+subaru,impreza,2019,petrol,manual,36400,1893,1,16.5,1105000
+volkswagen,polo,2023,petrol,manual,53199,1022,1,17.1,508000
+volkswagen,vento,2020,petrol,manual,50260,1511,1,16.1,417000
+volkswagen,tiguan,2022,diesel,automatic,3000,1888,1,15.5,1734000
+volvo,xc40,2021,petrol,automatic,55016,1937,1,12.7,2322000
+volvo,xc60,2020,diesel,automatic,3000,2078,1,16.2,2913000
+volvo,s90,2021,diesel,automatic,81178,2044,3,15.9,2123000
+honda,city,2020,petrol,manual,3000,1526,1,18.2,549000
+honda,civic,2022,petrol,automatic,56615,1826,1,14.8,825000
+honda,amaze,2021,diesel,manual,60113,1584,1,25.9,662000
+hyundai,verna,2017,petrol,manual,49571,1428,2,19.5,441000
+hyundai,creta,2019,diesel,automatic,28468,1582,1,20.4,716000
+hyundai,i20,2024,petrol,manual,36817,1126,1,21.1,619000
+toyota,corolla,2021,petrol,automatic,94670,1744,1,16,620000
+toyota,fortuner,2022,diesel,automatic,50287,2602,1,13,2629000
+toyota,innova,2023,diesel,manual,49749,2294,1,14.7,1574000
+audi,a4,2021,petrol,automatic,17114,1911,1,16.3,2305000
+audi,q3,2017,petrol,automatic,28652,2014,2,13.6,2186000
+audi,a6,2016,diesel,automatic,70887,1870,1,15.6,2046000
+bmw,3 series,2022,petrol,automatic,51926,1894,1,13.8,3351000
+bmw,5 series,2021,diesel,automatic,28985,2004,1,18.5,3404000
+bmw,x1,2021,petrol,automatic,60282,1981,2,15.3,2895000
+chevrolet,beat,2021,diesel,manual,39248,1182,2,23.8,246000
+chevrolet,cruze,2017,diesel,manual,68685,2085,2,16.2,343000
+chevrolet,enjoy,2016,diesel,manual,45490,1221,2,18,248000
+jaguar,xe,2016,petrol,automatic,35804,2051,1,12.4,2502000
+jaguar,xf,2019,diesel,automatic,43837,1986,1,13.1,2536000
+jaguar,f pace,2018,diesel,automatic,40853,2065,1,11.6,3271000
+mazda,mazda3,2019,petrol,automatic,3000,1946,1,16.7,1192000
+mazda,cx5,2017,diesel,automatic,22441,2241,1,15.2,1770000
+mazda,cx3,2023,petrol,automatic,3000,1988,1,17.4,1716000
+mercedes,c class,2020,petrol,automatic,13262,1973,1,16.5,3253000
+mercedes,e class,2022,diesel,automatic,32156,1957,1,17,4607000
+mercedes,gla,2018,petrol,automatic,23391,1352,1,17.4,2794000
+mitsubishi,lancer,2016,petrol,manual,91596,1484,2,14.8,342000
+mitsubishi,outlander,2015,petrol,automatic,71757,2260,1,12.4,864000
+mitsubishi,pajero,2015,diesel,manual,69042,2551,3,11.7,663000
+nissan,micra,2020,petrol,manual,63701,1154,1,18.8,345000
+nissan,sunny,2015,diesel,manual,57066,1393,1,21.9,262000
+nissan,kicks,2020,petrol,manual,3000,1555,2,13.2,668000
+porsche,cayenne,2021,petrol,automatic,77112,3019,1,10.3,6924000
+porsche,macan,2017,petrol,automatic,51442,2088,1,13.1,4797000
+porsche,panamera,2016,petrol,automatic,25441,2944,1,11.9,3805000
+subaru,forester,2022,petrol,automatic,26252,2613,1,12.1,1612000
+subaru,outback,2019,petrol,automatic,3000,2588,2,12.7,1657000
+subaru,impreza,2022,petrol,manual,18126,1884,1,16.7,1434000
+volkswagen,polo,2019,petrol,manual,34518,971,1,17.6,457000
+volkswagen,vento,2021,petrol,manual,17475,1566,1,17.3,547000
+volkswagen,tiguan,2024,diesel,automatic,28883,2038,2,15.9,1814000
+volvo,xc40,2022,petrol,automatic,13317,2022,1,12.8,2361000
+volvo,xc60,2016,diesel,automatic,30784,2051,1,16.4,2567000
+volvo,s90,2015,diesel,automatic,91970,1966,2,16.3,2092000
+honda,city,2018,petrol,manual,3000,1441,1,18.2,454000
+honda,civic,2019,petrol,automatic,32037,1801,1,15.9,625000
+honda,amaze,2021,diesel,manual,20089,1536,1,25.8,580000
+hyundai,verna,2019,petrol,manual,35538,1579,1,18.8,510000
+hyundai,creta,2022,diesel,automatic,31388,1481,2,18.1,978000
+hyundai,i20,2019,petrol,manual,63751,1175,1,20.6,569000
+toyota,corolla,2022,petrol,automatic,29866,1731,1,16.2,539000
+toyota,fortuner,2019,diesel,automatic,70840,2684,2,13.2,1960000
+toyota,innova,2023,diesel,manual,19971,2500,1,15.5,1741000
+audi,a4,2019,petrol,automatic,41219,2112,1,14.1,2176000
+audi,q3,2018,petrol,automatic,82015,2046,1,14.8,2631000
+audi,a6,2021,diesel,automatic,84531,1850,1,17.1,3338000
+bmw,3 series,2017,petrol,automatic,17123,1929,1,13.6,2606000
+bmw,5 series,2019,diesel,automatic,50705,1983,1,16.9,2909000
+bmw,x1,2022,petrol,automatic,40405,2066,1,12.8,3458000
+chevrolet,beat,2015,diesel,manual,57940,1186,2,24.7,204000
+chevrolet,cruze,2018,diesel,manual,66902,1953,2,19.3,338000
+chevrolet,enjoy,2019,diesel,manual,81183,1207,3,17.7,265000
+jaguar,xe,2018,petrol,automatic,17697,1945,1,13,2636000
+jaguar,xf,2020,diesel,automatic,19466,2002,2,14.6,2535000
+jaguar,f pace,2021,diesel,automatic,6931,2084,1,11.4,4096000
+mazda,mazda3,2022,petrol,automatic,67884,2116,1,17.2,1535000
+mazda,cx5,2017,diesel,automatic,90783,2151,1,15.8,1573000
+mazda,cx3,2018,petrol,automatic,18433,1939,2,18.6,1386000
+mercedes,c class,2021,petrol,automatic,56398,1910,1,16,3638000
+mercedes,e class,2017,diesel,automatic,3000,2047,1,15.4,3760000
+mercedes,gla,2019,petrol,automatic,41178,1260,1,17.3,2986000
+mitsubishi,lancer,2018,petrol,manual,70232,1436,1,13.9,289000
+mitsubishi,outlander,2017,petrol,automatic,75984,2345,1,10.9,1238000
+mitsubishi,pajero,2015,diesel,manual,58273,2481,2,11,863000
+nissan,micra,2021,petrol,manual,86883,1151,1,17.6,361000
+nissan,sunny,2016,diesel,manual,8873,1535,3,22.1,234000
+nissan,kicks,2017,petrol,manual,4551,1458,1,15,580000
+porsche,cayenne,2021,petrol,automatic,28172,3122,1,9.3,6079000
+porsche,macan,2020,petrol,automatic,3000,2090,1,11.9,5232000
+porsche,panamera,2019,petrol,automatic,35288,3067,1,11.1,5206000
+subaru,forester,2017,petrol,automatic,68470,2575,1,14.2,1134000
+subaru,outback,2021,petrol,automatic,31295,2492,1,13.3,2099000
+subaru,impreza,2020,petrol,manual,23726,2041,1,15.8,1127000
+volkswagen,polo,2022,petrol,manual,33179,950,1,17.6,474000
+volkswagen,vento,2018,petrol,manual,68416,1522,1,17.2,410000
+volkswagen,tiguan,2021,diesel,automatic,27636,1970,1,13.8,1432000
+volvo,xc40,2018,petrol,automatic,50810,1914,2,14.9,2034000
+volvo,xc60,2020,diesel,automatic,46901,2003,1,15.2,3023000
+volvo,s90,2019,diesel,automatic,52026,1988,1,16.9,2524000
+honda,city,2019,petrol,manual,51478,1412,1,18.1,539000
+honda,civic,2016,petrol,automatic,37847,1697,1,17.3,666000
+honda,amaze,2022,diesel,manual,15432,1502,1,23.4,676000
+hyundai,verna,2018,petrol,manual,11537,1566,1,16.7,458000
+hyundai,creta,2023,diesel,automatic,92974,1438,2,20.3,899000
+hyundai,i20,2022,petrol,manual,10459,1145,1,19.7,584000
+toyota,corolla,2020,petrol,automatic,46419,1814,1,17,645000
+toyota,fortuner,2022,diesel,automatic,72697,2747,2,13.9,2508000
+toyota,innova,2020,diesel,manual,47778,2348,1,13.9,1278000
+audi,a4,2018,petrol,automatic,4295,1907,1,14.9,2129000
+audi,q3,2021,petrol,automatic,51896,1902,1,15,2792000
+audi,a6,2017,diesel,automatic,3000,2048,3,17.4,2312000
+bmw,3 series,2019,petrol,automatic,31676,1980,1,14.7,3095000
+bmw,5 series,2016,diesel,automatic,57000,2005,1,19.3,2895000
+bmw,x1,2018,petrol,automatic,3000,2068,1,13.5,2582000
+chevrolet,beat,2020,diesel,manual,75225,1141,1,25.6,248000
+chevrolet,cruze,2015,diesel,manual,80807,2065,1,19.5,310000
+chevrolet,enjoy,2017,diesel,manual,74962,1210,3,17.3,240000
+jaguar,xe,2020,petrol,automatic,36267,2077,1,12.9,2400000
+jaguar,xf,2015,diesel,automatic,70715,2113,2,14,1880000
+jaguar,f pace,2018,diesel,automatic,6875,1970,1,11.7,3439000
+mazda,mazda3,2017,petrol,automatic,63708,2051,1,17.9,987000
+mazda,cx5,2016,diesel,automatic,26604,2226,1,15.2,1402000
+mazda,cx3,2024,petrol,automatic,15690,2037,1,18,1936000
+mercedes,c class,2022,petrol,automatic,49448,1973,1,15.9,3610000
+mercedes,e class,2016,diesel,automatic,40510,1878,1,16.4,4058000
+mercedes,gla,2020,petrol,automatic,3237,1330,1,15.4,3100000
+mitsubishi,lancer,2017,petrol,manual,22928,1543,3,14,316000
+mitsubishi,outlander,2016,petrol,automatic,44121,2234,1,12.3,909000
+mitsubishi,pajero,2017,diesel,manual,22197,2429,3,12.2,904000
+nissan,micra,2020,petrol,manual,91092,1269,1,18.5,294000
+nissan,sunny,2015,diesel,manual,76302,1431,2,20.7,295000
+nissan,kicks,2019,petrol,manual,51215,1503,1,13.6,681000
+porsche,cayenne,2020,petrol,automatic,9582,3019,1,9.9,6274000
+porsche,macan,2023,petrol,automatic,16063,2026,1,11.1,5946000
+porsche,panamera,2015,petrol,automatic,14219,3159,2,10.8,4762000
+subaru,forester,2017,petrol,automatic,74169,2367,1,12.2,1495000
+subaru,outback,2021,petrol,automatic,82613,2632,1,13.6,1707000
+subaru,impreza,2018,petrol,manual,42579,2054,1,17,1068000
+volkswagen,polo,2018,petrol,manual,19767,1028,1,18.9,396000
+volkswagen,vento,2016,petrol,manual,62177,1646,1,16.9,389000
+volkswagen,tiguan,2019,diesel,automatic,28336,2065,1,14.4,1373000
+volvo,xc40,2023,petrol,automatic,19916,2003,1,14.6,2266000
+volvo,xc60,2022,diesel,automatic,85979,1968,1,15.1,3173000
+volvo,s90,2020,diesel,automatic,78140,2020,2,17.2,1993000
+honda,city,2023,petrol,manual,14992,1494,1,16.3,658000
+honda,civic,2018,petrol,automatic,35806,1815,1,15.7,681000
+honda,amaze,2023,diesel,manual,79943,1510,1,25.3,720000
+hyundai,verna,2019,petrol,manual,36797,1555,1,16.9,509000
+hyundai,creta,2018,diesel,automatic,24854,1541,2,18.3,650000
+hyundai,i20,2019,petrol,manual,10956,1144,1,19,537000
+toyota,corolla,2017,petrol,automatic,77537,1771,2,17.2,473000
+toyota,fortuner,2020,diesel,automatic,38848,2884,1,13.9,1930000
+toyota,innova,2022,diesel,manual,24485,2530,1,13.5,1698000
+audi,a4,2019,petrol,automatic,33478,1885,1,15.2,1916000
+audi,q3,2023,petrol,automatic,84070,1925,1,14.3,2661000
+audi,a6,2016,diesel,automatic,113227,1889,2,17.4,2625000
+bmw,3 series,2018,petrol,automatic,42510,1925,2,13.8,2845000
+bmw,5 series,2017,diesel,automatic,75128,1997,1,17.3,2533000
+bmw,x1,2024,petrol,automatic,28027,1970,1,15,3644000
+chevrolet,beat,2018,diesel,manual,64222,1166,1,22.8,233000
+chevrolet,cruze,2017,diesel,manual,34077,2048,3,18.6,311000
+chevrolet,enjoy,2016,diesel,manual,38129,1207,2,20.9,285000
+jaguar,xe,2017,petrol,automatic,59747,1927,2,13.3,1882000
+jaguar,xf,2015,diesel,automatic,69811,1994,1,14.2,1734000
+jaguar,f pace,2017,diesel,automatic,3000,1960,1,11.4,3377000
+mazda,mazda3,2022,petrol,automatic,3000,1943,1,15.5,1361000
+mazda,cx5,2019,diesel,automatic,49935,2213,1,15.5,1827000
+mazda,cx3,2022,petrol,automatic,3401,1933,1,18.5,1897000
+mercedes,c class,2021,petrol,automatic,49742,2110,2,14.5,3181000
+mercedes,e class,2022,diesel,automatic,34663,1864,1,15.8,4044000
+mercedes,gla,2021,petrol,automatic,69800,1277,1,16.7,3115000
+mitsubishi,lancer,2018,petrol,manual,132331,1470,3,14.7,276000
+mitsubishi,outlander,2015,petrol,automatic,6456,2382,1,12.7,995000
+mitsubishi,pajero,2017,diesel,manual,53377,2503,1,11.9,979000
+nissan,micra,2016,petrol,manual,13461,1154,1,19.1,325000
+nissan,sunny,2016,diesel,manual,46937,1436,2,19.8,306000
+nissan,kicks,2021,petrol,manual,29596,1487,1,14.5,716000
+porsche,cayenne,2022,petrol,automatic,3000,2874,1,10.3,6778000
+porsche,macan,2017,petrol,automatic,37693,2093,1,11.1,4367000
+porsche,panamera,2015,petrol,automatic,3000,2817,1,12.1,4440000
+subaru,forester,2016,petrol,automatic,40308,2535,1,13,1138000
+subaru,outback,2020,petrol,automatic,13679,2555,2,14.6,1649000
+subaru,impreza,2021,petrol,manual,13942,1908,1,16.5,1273000
+volkswagen,polo,2022,petrol,manual,85782,975,1,17,493000
+volkswagen,vento,2020,petrol,manual,83884,1622,1,15.9,428000
+volkswagen,tiguan,2021,diesel,automatic,41405,1960,1,16.5,1569000
+volvo,xc40,2023,petrol,automatic,20486,1972,1,15,2284000
+volvo,xc60,2018,diesel,automatic,48750,2019,1,13.7,2395000
+volvo,s90,2016,diesel,automatic,31979,1864,1,15.4,1871000
+honda,city,2018,petrol,manual,30783,1412,2,16.1,430000
+honda,civic,2018,petrol,automatic,84218,1851,1,16.7,609000
+honda,amaze,2019,diesel,manual,38965,1551,2,22.2,512000
+hyundai,verna,2018,petrol,manual,3000,1433,1,18.5,382000
+hyundai,creta,2022,diesel,automatic,39314,1485,2,19.6,862000
+hyundai,i20,2024,petrol,manual,4958,1238,1,18.5,621000
+toyota,corolla,2016,petrol,automatic,115200,1753,1,15,390000
+toyota,fortuner,2021,diesel,automatic,21338,2602,1,13.7,2196000
+toyota,innova,2019,diesel,manual,49307,2329,2,14.8,1283000
+audi,a4,2018,petrol,automatic,47511,2094,1,15.4,2281000
+audi,q3,2017,petrol,automatic,43779,2074,1,12.8,2249000
+audi,a6,2020,diesel,automatic,51310,1881,2,15.4,2888000
+bmw,3 series,2017,petrol,automatic,27204,2048,1,13.9,2587000
+bmw,5 series,2021,diesel,automatic,50309,2072,1,16.9,3924000
+bmw,x1,2021,petrol,automatic,3000,1950,2,15,3222000
+chevrolet,beat,2019,diesel,manual,33687,1265,1,24.6,231000
+chevrolet,cruze,2018,diesel,manual,48810,1907,3,19,267000
+chevrolet,enjoy,2018,diesel,manual,69618,1175,2,17.9,272000
+jaguar,xe,2019,petrol,automatic,17242,2117,1,13.7,2388000
+jaguar,xf,2020,diesel,automatic,31534,1882,2,15.3,2138000
+jaguar,f pace,2022,diesel,automatic,62625,1902,1,12.2,3536000
+mazda,mazda3,2017,petrol,automatic,82781,1901,2,15.7,1129000
+mazda,cx5,2017,diesel,automatic,57133,2321,1,14,1599000
+mazda,cx3,2022,petrol,automatic,3000,1910,1,16.2,1648000
+mercedes,c class,2017,petrol,automatic,3000,2082,1,16,2565000
+mercedes,e class,2021,diesel,automatic,25961,1919,1,15.9,4066000
+mercedes,gla,2019,petrol,automatic,42476,1405,1,17.1,2884000
+mitsubishi,lancer,2015,petrol,manual,50755,1512,2,12.7,207000
+mitsubishi,outlander,2019,petrol,automatic,69143,2440,1,12.2,1140000
+mitsubishi,pajero,2019,diesel,manual,59976,2483,2,12,1079000
+nissan,micra,2019,petrol,manual,46852,1237,1,18.2,275000
+nissan,sunny,2018,diesel,manual,63422,1539,1,24.2,307000
+nissan,kicks,2021,petrol,manual,77359,1498,1,14.5,771000
+porsche,cayenne,2020,petrol,automatic,5637,3007,1,10.5,5985000
+porsche,macan,2017,petrol,automatic,61080,1995,1,10.9,4305000
+porsche,panamera,2015,petrol,automatic,30507,2946,2,9.9,4817000
+subaru,forester,2022,petrol,automatic,18142,2417,1,13.7,1444000
+subaru,outback,2021,petrol,automatic,68455,2465,1,12.7,1822000
+subaru,impreza,2020,petrol,manual,26485,1939,2,17.4,1313000
+volkswagen,polo,2020,petrol,manual,25343,1003,1,16.4,515000
+volkswagen,vento,2019,petrol,manual,57034,1545,1,16.6,414000
+volkswagen,tiguan,2022,diesel,automatic,24670,2066,2,14.4,1481000
+volvo,xc40,2023,petrol,automatic,9380,2001,2,15.1,2683000
+volvo,xc60,2020,diesel,automatic,3546,1853,1,16.4,2426000
+volvo,s90,2020,diesel,automatic,50382,1889,2,16.9,2094000
+honda,city,2021,petrol,manual,6485,1487,2,16.6,550000
+honda,civic,2017,petrol,automatic,58263,1756,1,16.7,675000
+honda,amaze,2018,diesel,manual,24069,1511,2,25.9,416000
+hyundai,verna,2019,petrol,manual,45210,1545,1,18.9,455000
+hyundai,creta,2024,diesel,automatic,16294,1526,2,19.9,1009000
+hyundai,i20,2022,petrol,manual,27896,1185,1,18.2,515000
+toyota,corolla,2018,petrol,automatic,47153,1837,2,17.2,430000
+toyota,fortuner,2021,diesel,automatic,16249,2779,1,13.6,2379000
+toyota,innova,2022,diesel,manual,21269,2322,1,13.7,1638000
+audi,a4,2020,petrol,automatic,3000,2005,2,13.6,2438000
+audi,q3,2023,petrol,automatic,44786,1996,1,13.8,3126000
+audi,a6,2018,diesel,automatic,3000,2032,1,16.6,2959000
+bmw,3 series,2018,petrol,automatic,38795,1974,1,14.9,2870000
+bmw,5 series,2017,diesel,automatic,12199,2114,2,18.6,2562000
+bmw,x1,2022,petrol,automatic,3000,2040,2,13.6,3298000
+chevrolet,beat,2018,diesel,manual,41111,1163,2,25.4,197000
+chevrolet,cruze,2015,diesel,manual,77825,2005,2,18.2,257000
+chevrolet,enjoy,2016,diesel,manual,25923,1229,1,19.6,255000
+jaguar,xe,2017,petrol,automatic,28043,1888,1,13.1,2062000
+jaguar,xf,2017,diesel,automatic,92361,1893,1,13.7,1722000
+jaguar,f pace,2019,diesel,automatic,9655,1916,1,12.4,3350000
+mazda,mazda3,2017,petrol,automatic,29137,2055,2,16.8,1184000
+mazda,cx5,2021,diesel,automatic,64580,2299,1,15.9,1870000
+mazda,cx3,2018,petrol,automatic,9151,2084,1,17.2,1295000
+mercedes,c class,2017,petrol,automatic,62914,1878,2,14.5,3051000
+mercedes,e class,2021,diesel,automatic,34990,1982,1,14.4,4609000
+mercedes,gla,2024,petrol,automatic,42343,1267,1,15.6,3928000
+mitsubishi,lancer,2016,petrol,manual,121386,1445,2,14.6,259000
+mitsubishi,outlander,2021,petrol,automatic,54642,2492,1,12.5,1133000
+mitsubishi,pajero,2016,diesel,manual,64815,2381,2,11.8,736000
+nissan,micra,2022,petrol,manual,42883,1165,2,17.8,343000
+nissan,sunny,2015,diesel,manual,76635,1510,2,21.3,190000
+nissan,kicks,2023,petrol,manual,13370,1453,1,14.2,821000
+porsche,cayenne,2018,petrol,automatic,3000,3048,2,10.2,6237000
+porsche,macan,2021,petrol,automatic,14334,1900,1,12.7,5943000
+porsche,panamera,2017,petrol,automatic,71869,3032,1,10.6,5347000
+subaru,forester,2018,petrol,automatic,44487,2429,1,11.9,1241000
+subaru,outback,2017,petrol,automatic,41000,2413,1,14.6,1551000
+subaru,impreza,2024,petrol,manual,21547,2065,1,15,1515000
+volkswagen,polo,2022,petrol,manual,24253,954,1,18,422000
+volkswagen,vento,2022,petrol,manual,34524,1635,1,14.5,490000
+volkswagen,tiguan,2021,diesel,automatic,3000,2003,1,15.8,1396000
+volvo,xc40,2020,petrol,automatic,3000,2018,1,12.8,2188000
+volvo,xc60,2017,diesel,automatic,56991,1977,1,16.2,2606000
+volvo,s90,2020,diesel,automatic,95660,1868,2,17.5,2374000
+honda,city,2022,petrol,manual,26779,1580,2,15.9,542000
+honda,civic,2017,petrol,automatic,18026,1721,1,15.7,617000
+honda,amaze,2023,diesel,manual,68730,1575,2,23.7,659000
+hyundai,verna,2023,petrol,manual,79175,1442,1,16.9,589000
+hyundai,creta,2023,diesel,automatic,49765,1416,1,17.7,884000
+hyundai,i20,2024,petrol,manual,3000,1215,1,18.7,659000
+toyota,corolla,2019,petrol,automatic,49656,1887,1,15.7,570000
+toyota,fortuner,2021,diesel,automatic,48468,2609,1,14.9,2176000
+toyota,innova,2020,diesel,manual,3000,2290,1,14.3,1293000
+audi,a4,2017,petrol,automatic,39607,2082,2,13.8,1895000
+audi,q3,2020,petrol,automatic,30066,2051,1,15.1,2711000
+audi,a6,2017,diesel,automatic,46299,2062,2,18.5,1991000
+bmw,3 series,2022,petrol,automatic,3000,2038,2,16.1,2683000
+bmw,5 series,2018,diesel,automatic,59619,1956,2,16.7,3283000
+bmw,x1,2024,petrol,automatic,38192,1945,1,12.7,3688000
+chevrolet,beat,2016,diesel,manual,43637,1212,3,27.3,166000
+chevrolet,cruze,2015,diesel,manual,95889,2061,1,18.8,268000
+chevrolet,enjoy,2019,diesel,manual,94957,1235,2,18,289000
+jaguar,xe,2018,petrol,automatic,9132,2019,2,12.6,1998000
+jaguar,xf,2019,diesel,automatic,47045,1997,3,12.8,1965000
+jaguar,f pace,2021,diesel,automatic,50356,2102,2,11.3,3519000
+mazda,mazda3,2020,petrol,automatic,39485,2058,1,18.4,1275000
+mazda,cx5,2016,diesel,automatic,35631,2246,1,16.1,1442000
+mazda,cx3,2022,petrol,automatic,52628,1916,1,16.7,1869000
+mercedes,c class,2017,petrol,automatic,43478,1926,1,14.8,2323000
+mercedes,e class,2021,diesel,automatic,9994,2064,1,15.1,4318000
+mercedes,gla,2023,petrol,automatic,12528,1402,1,15.9,3833000
+mitsubishi,lancer,2018,petrol,manual,64390,1587,1,12.7,312000
+mitsubishi,outlander,2017,petrol,automatic,74275,2275,1,11.2,1016000
+mitsubishi,pajero,2017,diesel,manual,60784,2578,1,12.2,838000
+maruti suzuki,swift,2023,cng,manual,79644,1197,3,11.7,1671000
+maruti suzuki,brezza,2026,cng,manual,129994,1798,1,18.1,1745000
+maruti suzuki,brezza,2017,petrol,manual,141338,1497,4,18,738000
+maruti suzuki,brezza,2015,petrol,automatic,160157,2998,4,21.4,158000
+maruti suzuki,baleno,2023,cng,manual,15021,1598,4,24,2000000
+maruti suzuki,wagon r,2014,diesel,manual,91109,1798,1,22.3,150000
+maruti suzuki,fronx,2023,diesel,manual,75720,2998,2,18.5,803000
+maruti suzuki,wagon r,2014,diesel,automatic,124507,1396,1,22.1,402000
+maruti suzuki,fronx,2018,petrol,manual,114468,1197,2,25,906000
+maruti suzuki,brezza,2024,hybrid,manual,161962,1248,3,12.5,707000
+maruti suzuki,wagon r,2014,hybrid,automatic,144041,2494,3,22.7,583000
+maruti suzuki,baleno,2023,cng,manual,92492,998,1,12.1,1178000
+tata,safari,2022,cng,manual,154350,998,4,21.4,1011000
+tata,safari,2020,petrol,automatic,143700,1998,1,17.9,564000
+tata,tigor,2015,diesel,manual,178702,998,1,11,691000
+tata,altroz,2016,hybrid,manual,79874,1197,3,24.1,727000
+tata,tigor,2021,diesel,manual,76979,1396,1,10.4,1392000
+tata,nexon,2013,hybrid,automatic,126329,2198,1,19,329000
+tata,tigor,2014,diesel,automatic,90726,1197,2,15.4,400000
+tata,tiago,2021,cng,manual,172866,1497,1,27.3,315000
+tata,harrier,2025,diesel,automatic,83963,2494,4,24,789000
+tata,punch,2022,hybrid,manual,133435,998,1,26.2,621000
+tata,nexon,2018,cng,automatic,130726,2494,3,13.2,482000
+tata,safari,2024,petrol,manual,90219,1998,2,21.3,1518000
+mahindra,scorpio,2020,petrol,automatic,114288,2494,2,10.7,310000
+mahindra,xuv700,2019,petrol,manual,119926,2198,1,20.6,352000
+mahindra,xuv500,2014,diesel,manual,178175,1598,2,20.6,436000
+mahindra,thar,2012,petrol,manual,77013,1598,4,11.5,291000
+mahindra,xuv700,2019,cng,manual,81087,1197,3,18.5,1324000
+mahindra,xuv500,2016,hybrid,manual,99466,2998,2,10.4,588000
+mahindra,thar,2024,petrol,manual,99080,1396,3,12,516000
+mahindra,bolero,2022,petrol,manual,46165,2198,3,23.8,1308000
+mahindra,thar,2013,cng,manual,175603,1248,1,20,193000
+mahindra,xuv300,2017,diesel,manual,84426,3498,2,27.2,955000
+mahindra,bolero,2016,cng,automatic,163280,3498,4,13,331000
+mahindra,xuv300,2012,diesel,manual,174580,1197,4,23.5,460000
+kia,ev6,2025,petrol,manual,23528,1598,2,23.9,1348000
+kia,sonet,2021,diesel,manual,159875,2198,3,14.7,329000
+kia,seltos,2026,hybrid,automatic,8648,998,4,12.8,608000
+kia,carnival,2014,diesel,automatic,130427,998,1,15.6,648000
+kia,ev6,2023,diesel,manual,91377,1598,1,10.3,1070000
+kia,seltos,2015,diesel,automatic,6179,3498,1,19.1,708000
+kia,ev6,2022,hybrid,automatic,76815,2998,4,22.9,556000
+kia,seltos,2023,hybrid,automatic,79789,1798,4,17.2,468000
+kia,ev6,2016,petrol,manual,92982,1396,4,15.2,716000
+kia,ev6,2025,diesel,automatic,108658,1197,3,11.9,1282000
+kia,carnival,2014,cng,manual,4152,1197,3,26.8,821000
+kia,carnival,2024,diesel,manual,115271,2998,1,12,1580000
+renault,triber,2024,diesel,manual,84952,1497,3,20.9,685000
+renault,duster,2025,hybrid,automatic,54304,1197,2,17.7,1098000
+renault,kwid,2021,hybrid,manual,51511,1798,1,14.3,906000
+renault,duster,2023,hybrid,manual,172769,2998,1,20.7,388000
+renault,triber,2014,petrol,manual,59414,3498,1,26.6,323000
+renault,kiger,2014,petrol,manual,105203,1598,1,10.4,204000
+renault,kiger,2012,petrol,automatic,150086,1598,3,22.3,150000
+renault,duster,2017,hybrid,manual,177243,2198,4,25.3,581000
+renault,kiger,2012,diesel,automatic,160374,1248,1,20.3,162000
+renault,duster,2018,diesel,automatic,4252,3498,3,11.8,642000
+renault,kwid,2024,petrol,automatic,74524,2198,1,25.2,1908000
+renault,duster,2025,petrol,manual,59763,1798,4,21.6,1830000
+skoda,octavia,2023,cng,automatic,149212,1396,3,25.4,1046000
+skoda,kodiaq,2018,hybrid,manual,124451,1248,2,12.5,832000
+skoda,superb,2019,petrol,manual,109940,1497,2,16.6,458000
+skoda,rapid,2016,diesel,manual,35376,1248,2,27.1,788000
+skoda,rapid,2025,hybrid,manual,139342,1598,3,25.3,843000
+skoda,superb,2021,petrol,manual,100888,2494,3,15.2,962000
+skoda,kushaq,2023,petrol,automatic,108748,1798,4,12.4,1353000
+skoda,kodiaq,2021,cng,automatic,113071,1798,1,26.8,1210000
+skoda,rapid,2014,hybrid,manual,32983,1497,3,24.1,678000
+skoda,kodiaq,2023,hybrid,manual,18948,2198,3,11.7,731000
+skoda,octavia,2021,petrol,automatic,25893,998,3,18.4,1101000
+skoda,rapid,2019,cng,manual,165861,1798,2,20.8,1037000
+ford,ecosport,2025,hybrid,automatic,142114,2198,1,21.8,478000
+ford,freestyle,2018,hybrid,manual,39863,2198,2,26.2,959000
+ford,aspire,2023,cng,manual,143755,1798,2,12.8,794000
+ford,aspire,2014,petrol,manual,101237,2198,2,23.1,389000
+ford,ecosport,2020,hybrid,manual,66858,1998,2,16.8,1257000
+ford,freestyle,2026,petrol,automatic,152802,1598,1,25.3,1988000
+ford,aspire,2021,petrol,automatic,87636,998,3,10.2,1056000
+ford,ecosport,2018,cng,manual,79340,3498,2,18,502000
+ford,ecosport,2016,cng,manual,133666,1798,1,27.9,777000
+ford,ecosport,2025,cng,manual,140704,998,1,28,1713000
+ford,ecosport,2021,petrol,automatic,113327,2198,4,10.5,345000
+ford,endeavour,2015,diesel,automatic,154220,2494,1,26.4,661000
+jeep,meridian,2021,hybrid,automatic,3968,1197,1,20.9,261000
+jeep,grand cherokee,2024,hybrid,automatic,53940,1248,1,24.4,1820000
+jeep,grand cherokee,2025,petrol,manual,152765,2494,4,10.7,1452000
+jeep,meridian,2015,petrol,automatic,126435,1798,3,21.3,487000
+jeep,compass,2024,diesel,automatic,146959,998,1,14.9,1436000
+jeep,compass,2022,cng,manual,135648,1798,1,21.1,1102000
+jeep,compass,2012,petrol,manual,84231,1497,1,11.7,391000
+jeep,grand cherokee,2014,diesel,manual,107778,1798,4,21.5,399000
+jeep,grand cherokee,2020,diesel,automatic,46947,1798,2,20.4,1513000
+jeep,wrangler,2022,diesel,automatic,81354,1197,1,19.2,1683000
+jeep,wrangler,2018,hybrid,manual,25892,3498,1,15,329000
+jeep,compass,2016,cng,manual,142048,1497,3,17.4,630000
+mg,hector,2018,hybrid,automatic,170999,1998,2,10.6,732000
+mg,astor,2018,diesel,manual,29182,1197,3,20.2,452000
+mg,gloster,2022,cng,automatic,106926,1998,2,24.2,1204000
+mg,astor,2020,petrol,manual,96751,1798,2,19.2,1014000
+mg,zs ev,2023,cng,manual,25703,2998,3,19.4,1890000
+mg,astor,2023,petrol,manual,94915,1497,2,12.1,1606000
+mg,hector,2013,hybrid,manual,148474,998,2,16,150000
+mg,gloster,2014,cng,manual,14777,2998,1,24.9,651000
+mg,comet,2024,diesel,manual,128524,1248,3,12.2,518000
+mg,gloster,2017,cng,manual,16560,1598,4,15.6,1234000
+mg,comet,2022,petrol,automatic,136295,3498,3,10.2,783000
+mg,comet,2015,hybrid,automatic,85611,2198,1,25.1,250000
+citroen,c3 aircross,2026,hybrid,automatic,38485,2494,4,12.5,2061000
+citroen,e c3,2018,hybrid,manual,61161,2998,4,17.8,272000
+citroen,c5 aircross,2019,hybrid,automatic,57223,1248,4,10.8,425000
+citroen,e c3,2015,petrol,manual,37406,3498,3,18.9,531000
+citroen,c3,2013,diesel,automatic,151783,2998,3,21.7,512000
+citroen,c5 aircross,2022,hybrid,manual,111648,2198,2,19.7,324000
+citroen,c3 aircross,2017,hybrid,manual,61606,1798,4,25.3,652000
+citroen,c5 aircross,2019,diesel,manual,56981,1197,4,16.1,928000
+citroen,e c3,2019,hybrid,automatic,94508,998,2,26.5,316000
+citroen,e c3,2021,diesel,automatic,4512,1396,1,10.4,778000
+citroen,e c3,2025,cng,manual,77387,1197,3,10.1,873000
+citroen,c5 aircross,2016,petrol,automatic,96071,2198,4,21.2,688000
+land rover,range rover sport,2019,hybrid,manual,118207,1798,3,27.3,4677000
+land rover,range rover evoque,2023,diesel,manual,16129,1798,3,17.9,2196000
+land rover,range rover evoque,2020,hybrid,automatic,76781,1197,4,15.2,5679000
+land rover,range rover sport,2023,hybrid,automatic,115751,998,1,10.7,3250000
+land rover,range rover evoque,2023,hybrid,manual,157876,2998,2,27.6,6464000
+land rover,defender,2018,petrol,manual,118021,1248,3,24.4,1193000
+land rover,discovery,2025,diesel,manual,45193,998,2,10.9,1871000
+land rover,discovery,2013,hybrid,automatic,137997,1998,4,25.6,1759000
+land rover,range rover evoque,2023,diesel,manual,70582,2998,1,21.2,1675000
+land rover,defender,2024,diesel,automatic,171455,1396,3,10.5,4151000
+land rover,range rover sport,2018,cng,manual,111079,1396,1,25.4,3422000
+land rover,range rover evoque,2017,hybrid,manual,162749,2198,3,17.1,1696000
+lexus,es,2016,cng,manual,156343,2198,1,16.2,1206000
+lexus,rx,2022,diesel,manual,97444,1998,2,17.3,6600000
+lexus,rx,2014,petrol,automatic,36044,2998,3,20.7,3094000
+lexus,es,2017,diesel,manual,41850,1497,1,16.6,2709000
+lexus,es,2013,diesel,automatic,101201,1396,2,21.4,489000
+lexus,ls,2017,diesel,manual,160069,3498,4,19.7,3813000
+lexus,ls,2016,diesel,manual,71379,1798,2,26.4,1495000
+lexus,nx,2019,hybrid,automatic,41166,1998,3,15.4,3725000
+lexus,ls,2015,diesel,manual,34397,1497,4,15.1,1138000
+lexus,es,2020,diesel,manual,106548,1998,2,18.6,4628000
+lexus,ls,2026,cng,automatic,48252,2198,4,24.2,7639000
+lexus,rx,2014,petrol,automatic,59542,1598,3,27.2,820000
+infiniti,qx80,2019,hybrid,manual,27721,3498,4,11.9,1237000
+infiniti,qx50,2012,petrol,automatic,104269,3498,2,19.3,468000
+infiniti,qx80,2016,petrol,automatic,153802,1998,2,11.1,992000
+infiniti,qx80,2022,diesel,automatic,175955,1598,2,17.5,2589000
+infiniti,q50,2012,diesel,automatic,76416,1197,1,19.1,1777000
+infiniti,qx50,2019,petrol,manual,75594,1798,4,25.1,2885000
+infiniti,qx60,2015,petrol,manual,108751,2998,2,22.3,1273000
+infiniti,qx50,2015,cng,manual,46695,1598,1,18.3,3357000
+infiniti,qx80,2022,petrol,automatic,109836,1396,1,26.5,1482000
+infiniti,q50,2012,hybrid,automatic,147531,1197,1,21.2,392000
+infiniti,qx50,2015,petrol,automatic,43836,2198,4,10.1,2384000
+infiniti,qx50,2024,cng,automatic,84035,2998,4,25.4,2463000
+acura,tlx,2015,petrol,manual,101578,3498,3,27.7,1856000
+acura,integra,2017,cng,manual,29281,1798,4,20.8,2077000
+acura,tlx,2015,cng,manual,115521,2494,1,10.5,1461000
+acura,rdx,2017,diesel,automatic,127272,1998,3,22.7,1332000
+acura,tlx,2023,hybrid,manual,24979,1197,3,12.3,7024000
+acura,mdx,2014,cng,automatic,13660,2494,3,27.9,1048000
+acura,tlx,2012,hybrid,automatic,100944,1798,3,12.3,1929000
+acura,rdx,2025,petrol,manual,76463,1197,3,14.9,5126000
+acura,rdx,2012,diesel,automatic,26369,1497,3,25.1,908000
+acura,integra,2012,petrol,automatic,30658,2998,4,14.6,795000
+acura,rdx,2021,petrol,automatic,95970,2494,3,23.1,3141000
+acura,mdx,2020,diesel,manual,130018,1197,2,19.3,5372000
+tesla,model x,2012,electric,manual,66442,1497,2,278.2,1236000
+tesla,model x,2025,diesel,manual,31322,1598,1,27.3,6435000
+tesla,model y,2014,diesel,automatic,165824,3498,4,13.8,2333000
+tesla,model y,2019,petrol,automatic,117065,1998,2,19.3,4581000
+tesla,model 3,2023,diesel,automatic,97508,1798,4,11.9,6785000
+tesla,model x,2022,petrol,manual,144264,1197,2,13.7,3715000
+tesla,model s,2018,electric,automatic,176323,1396,4,465.8,4236000
+tesla,model x,2021,hybrid,automatic,59486,1998,2,20.5,3033000
+tesla,model y,2012,diesel,automatic,168563,1598,2,13.5,1062000
+tesla,model y,2017,hybrid,manual,26206,1197,1,22.3,2136000
+tesla,model y,2012,petrol,automatic,46116,1197,3,23.6,725000
+tesla,model x,2017,hybrid,manual,38769,1248,1,19.4,4500000
+byd,e6,2018,hybrid,automatic,10995,1598,1,27.3,524000
+byd,seal,2022,hybrid,manual,22592,1396,2,15.3,1680000
+byd,seal u,2016,petrol,manual,162591,3498,2,27.7,549000
+byd,seal u,2020,electric,manual,27389,1248,2,415.9,4008000
+byd,atto 3,2024,petrol,automatic,112166,1798,1,13,2457000
+byd,e6,2018,electric,automatic,153793,1798,3,470.5,1392000
+byd,e6,2024,hybrid,manual,74659,2494,1,23.9,1241000
+byd,atto 3,2021,petrol,manual,24356,2998,2,11.8,1554000
+byd,e6,2014,petrol,automatic,34770,1497,1,18.1,1485000
+byd,atto 3,2025,diesel,automatic,153687,2998,3,16.1,3225000
+byd,seal,2022,electric,manual,46329,998,1,532,1892000
+byd,seal u,2012,petrol,manual,94626,1598,2,19.5,510000
+mini,countryman,2024,diesel,manual,26320,1197,1,27.1,970000
+mini,countryman,2024,hybrid,automatic,31953,1798,1,13.7,988000
+mini,cooper,2025,petrol,manual,24054,3498,4,15.8,632000
+mini,countryman,2013,diesel,manual,73880,1798,4,13.4,388000
+mini,clubman,2014,hybrid,manual,134266,1598,4,12.8,331000
+mini,clubman,2022,diesel,automatic,11868,1497,3,24.3,1811000
+mini,countryman,2012,hybrid,automatic,143474,1248,3,26.6,411000
+mini,countryman,2016,cng,manual,3408,3498,4,15.1,689000
+mini,cooper,2017,diesel,manual,25838,1197,2,21.4,629000
+mini,countryman,2014,hybrid,automatic,59491,2198,2,18.3,393000
+mini,countryman,2021,cng,automatic,86683,3498,3,16.2,1094000
+mini,cooper,2013,cng,manual,152744,998,2,18.1,379000
+fiat,abarth punto,2023,cng,manual,178550,1798,1,21.9,885000
+fiat,linea,2017,hybrid,automatic,67841,2198,4,17.3,901000
+fiat,500,2014,cng,automatic,93081,2998,1,17.5,581000
+fiat,500,2018,diesel,automatic,75244,1598,4,12.3,691000
+fiat,punto,2016,cng,automatic,119027,1998,4,10.4,752000
+fiat,linea,2024,petrol,automatic,140733,2998,4,14.4,1779000
+fiat,500,2014,petrol,manual,51702,1197,2,15.1,639000
+fiat,500,2025,hybrid,automatic,38846,1798,4,22.6,2183000
+fiat,abarth punto,2020,cng,automatic,48154,1998,3,15.8,641000
+fiat,abarth punto,2019,diesel,manual,124321,998,3,17.2,806000
+fiat,abarth punto,2026,cng,manual,81578,3498,2,25.4,663000
+fiat,linea,2024,cng,automatic,89699,1998,4,16,1043000
+peugeot,208,2018,hybrid,manual,166526,2998,1,27.6,469000
+peugeot,3008,2026,hybrid,automatic,137979,1598,3,18.2,487000
+peugeot,208,2021,cng,automatic,54209,1396,2,20.5,685000
+peugeot,2008,2016,petrol,automatic,147442,2998,2,13,366000
+peugeot,208,2012,diesel,manual,144160,2998,3,12.5,150000
+peugeot,5008,2021,petrol,automatic,72041,3498,4,13.5,879000
+peugeot,208,2012,diesel,manual,112681,3498,3,27.7,450000
+peugeot,208,2026,petrol,automatic,142961,1396,1,25.9,745000
+peugeot,3008,2018,petrol,automatic,150358,1248,3,17.6,740000
+peugeot,3008,2015,cng,manual,124451,1998,1,27.9,702000
+peugeot,5008,2012,cng,automatic,19850,2198,2,27.6,409000
+peugeot,2008,2016,diesel,automatic,78185,998,4,22.1,329000
+opel,astra,2016,hybrid,automatic,150286,2494,2,17.5,861000
+opel,astra,2015,cng,automatic,144846,1598,2,26.1,235000
+opel,corsa,2020,hybrid,manual,20008,1197,2,19.6,688000
+opel,corsa,2019,petrol,automatic,3091,1598,1,23.9,328000
+opel,corsa,2017,cng,automatic,148694,1248,1,12.6,457000
+opel,insignia,2016,hybrid,automatic,98393,2494,2,11.7,532000
+opel,astra,2020,cng,automatic,48569,2494,3,19.1,667000
+opel,insignia,2022,diesel,manual,68119,1248,3,13.8,890000
+opel,insignia,2026,petrol,manual,18218,1248,1,13.2,1053000
+opel,insignia,2012,diesel,automatic,178299,1197,1,21.8,403000
+opel,astra,2025,diesel,automatic,157890,3498,2,25.7,1869000
+opel,corsa,2021,petrol,manual,119125,1396,1,23.2,1500000
+vauxhall,mokka,2023,cng,manual,149653,2198,3,10.5,798000
+vauxhall,corsa,2025,cng,manual,89056,1396,2,17.5,1431000
+vauxhall,insignia,2013,hybrid,manual,102337,1497,1,14.9,174000
+vauxhall,mokka,2014,diesel,manual,102845,2198,2,11.2,519000
+vauxhall,corsa,2012,petrol,automatic,161329,1998,4,13.1,380000
+vauxhall,insignia,2013,diesel,manual,87268,3498,2,11.1,555000
+vauxhall,corsa,2019,cng,manual,37601,2198,4,13.9,587000
+vauxhall,corsa,2018,petrol,automatic,77824,1248,3,12.4,752000
+vauxhall,insignia,2014,diesel,manual,66854,998,2,16.4,275000
+vauxhall,astra,2025,cng,manual,39354,2998,3,26.7,1872000
+vauxhall,corsa,2023,petrol,automatic,23412,1998,1,12.2,1088000
+vauxhall,insignia,2026,hybrid,automatic,148106,1798,2,27.9,1535000
+seat,ibiza,2015,diesel,automatic,60337,3498,4,20.4,500000
+seat,arona,2025,petrol,manual,176219,1598,2,18.9,798000
+seat,arona,2026,diesel,manual,73362,1998,3,12.3,1891000
+seat,leon,2015,petrol,manual,21281,2998,3,20.6,797000
+seat,leon,2022,diesel,manual,79379,1998,4,26.7,1473000
+seat,arona,2022,diesel,manual,61279,1598,2,20.2,677000
+seat,leon,2016,cng,manual,101129,1396,1,16.2,457000
+seat,leon,2019,petrol,manual,32393,2198,4,17,845000
+seat,ibiza,2023,cng,manual,136731,1396,4,24.9,1058000
+seat,arona,2014,cng,automatic,121404,998,4,27,730000
+seat,leon,2013,hybrid,manual,105479,998,4,10.7,617000
+seat,ateca,2025,cng,automatic,7696,2198,1,25.3,1003000
+cupra,born,2015,diesel,manual,3968,2494,4,16,617000
+cupra,leon,2026,diesel,manual,103019,1396,2,12.9,420000
+cupra,leon,2014,diesel,automatic,97958,3498,4,27.3,262000
+cupra,leon,2024,petrol,manual,108186,2998,1,16.7,1893000
+cupra,formentor,2017,hybrid,automatic,88272,1798,3,27.7,398000
+cupra,born,2025,diesel,manual,68487,1598,4,12.1,545000
+cupra,leon,2015,hybrid,automatic,53338,1396,1,25.7,694000
+cupra,formentor,2026,cng,automatic,85071,2198,3,12.9,1161000
+cupra,leon,2013,diesel,manual,112513,998,4,18.3,160000
+cupra,born,2025,petrol,manual,27713,1248,1,16.2,1451000
+cupra,formentor,2019,hybrid,automatic,74684,2494,1,27.5,469000
+cupra,formentor,2020,cng,manual,157240,1998,1,17.7,1244000
+alfa romeo,stelvio,2017,petrol,automatic,97624,3498,3,27.3,515000
+alfa romeo,giulia,2015,cng,automatic,56412,2998,2,10.8,545000
+alfa romeo,4c,2023,hybrid,manual,23798,998,4,25,778000
+alfa romeo,giulia,2022,cng,automatic,165087,1798,4,17.2,1415000
+alfa romeo,stelvio,2026,petrol,automatic,174470,1396,3,13.4,782000
+alfa romeo,stelvio,2014,hybrid,automatic,19688,2998,3,22.7,598000
+alfa romeo,4c,2013,hybrid,automatic,152062,3498,4,12.3,267000
+alfa romeo,4c,2016,cng,manual,99199,2998,2,27.5,971000
+alfa romeo,tonale,2023,diesel,manual,83783,1497,1,16.5,1669000
+alfa romeo,stelvio,2013,petrol,automatic,16706,2494,1,18,439000
+alfa romeo,4c,2024,cng,automatic,9226,1197,2,13.7,905000
+alfa romeo,4c,2024,petrol,manual,94289,3498,1,27.6,1416000
+maserati,ghibli,2020,petrol,manual,30187,998,1,13.5,21447000
+maserati,grecale,2017,hybrid,manual,98088,1998,3,13.6,11466000
+maserati,quattroporte,2024,cng,automatic,155953,3498,1,16.3,18023000
+maserati,ghibli,2019,petrol,manual,80498,3498,2,16.8,13655000
+maserati,quattroporte,2013,cng,manual,35357,1396,1,21.8,6642000
+maserati,grecale,2014,diesel,manual,43470,2198,3,13,9219000
+maserati,quattroporte,2023,petrol,manual,21994,1598,1,19.4,19132000
+maserati,grecale,2026,diesel,manual,179083,1598,4,18.6,7827000
+maserati,levante,2026,petrol,automatic,107953,1248,3,21.5,12087000
+maserati,ghibli,2020,hybrid,automatic,86014,2998,3,18.6,12629000
+maserati,ghibli,2024,hybrid,automatic,117729,2494,2,17.7,21608000
+maserati,grecale,2014,hybrid,manual,114699,1497,4,21.9,4582000
+ferrari,portofino,2025,hybrid,automatic,68651,1598,2,24.6,20752000
+ferrari,portofino,2012,cng,manual,84369,1248,2,23.4,4566000
+ferrari,488,2017,petrol,manual,113948,2198,3,26.1,4487000
+ferrari,roma,2020,petrol,automatic,172221,1197,2,13.6,15965000
+ferrari,roma,2016,cng,automatic,159261,2494,4,22.7,10138000
+ferrari,488,2023,diesel,manual,87678,1197,1,14.9,22204000
+ferrari,roma,2017,petrol,automatic,100392,2198,2,11.3,13558000
+ferrari,roma,2015,hybrid,automatic,135395,2494,2,18.1,3373000
+ferrari,purosangue,2016,petrol,manual,66863,1248,2,18.4,5035000
+ferrari,roma,2022,petrol,manual,136065,1396,2,14.9,7872000
+ferrari,488,2012,diesel,automatic,56625,1497,3,14.2,6701000
+ferrari,purosangue,2012,hybrid,manual,91134,1998,3,25.6,5084000
+lamborghini,revuelto,2019,cng,manual,160491,2998,2,24.2,15314000
+lamborghini,urus,2023,petrol,automatic,5797,1598,2,18.9,19295000
+lamborghini,urus,2018,cng,manual,100733,2998,3,12,12428000
+lamborghini,huracan,2014,hybrid,automatic,153067,3498,1,25.7,8063000
+lamborghini,revuelto,2014,diesel,automatic,74094,1396,3,20.9,8727000
+lamborghini,revuelto,2018,diesel,manual,101589,1396,1,13.1,12026000
+lamborghini,huracan,2023,petrol,automatic,171025,1497,1,25,19231000
+lamborghini,aventador,2022,petrol,automatic,34056,2494,4,14.8,9995000
+lamborghini,revuelto,2023,petrol,manual,122955,2494,4,14.2,25216000
+lamborghini,urus,2017,hybrid,automatic,49834,1598,3,17.8,3410000
+lamborghini,urus,2023,hybrid,automatic,139618,1497,4,25,16371000
+lamborghini,huracan,2022,petrol,automatic,104097,3498,1,10.7,11848000
+bentley,continental gt,2025,cng,automatic,146360,1197,2,17.1,22547000
+bentley,flying spur,2014,diesel,automatic,36424,1248,2,17.4,3862000
+bentley,bentayga,2023,hybrid,automatic,116679,2198,1,27.7,20116000
+bentley,bentayga,2021,diesel,automatic,166433,1248,1,23.1,5320000
+bentley,flying spur,2026,petrol,manual,85877,1248,2,13.3,9650000
+bentley,bentayga,2015,diesel,automatic,143903,2998,3,24.4,4290000
+bentley,continental gt,2021,diesel,automatic,48087,1197,3,27,10100000
+bentley,bentayga,2025,petrol,manual,152861,1497,1,10.6,19374000
+bentley,continental gt,2023,cng,manual,141575,1248,3,26.5,8093000
+bentley,flying spur,2015,hybrid,automatic,43296,998,3,25.6,8138000
+bentley,continental gt,2013,cng,automatic,137514,1197,1,24.1,5763000
+bentley,flying spur,2013,cng,manual,81096,2998,4,19.5,2227000
+rolls royce,cullinan,2012,hybrid,automatic,135636,1396,4,12.1,4763000
+rolls royce,ghost,2016,cng,automatic,92434,1798,4,17.1,8537000
+rolls royce,spectre,2026,hybrid,manual,46670,2198,2,22.2,27193000
+rolls royce,cullinan,2023,petrol,manual,143756,3498,4,23,13826000
+rolls royce,spectre,2014,hybrid,manual,65313,1998,1,18.5,5346000
+rolls royce,spectre,2015,petrol,automatic,75990,2998,3,15.1,8764000
+rolls royce,spectre,2021,diesel,automatic,176457,2998,1,15.4,11914000
+rolls royce,spectre,2015,diesel,automatic,110326,1998,4,24.9,5280000
+rolls royce,ghost,2018,petrol,manual,129010,1798,2,18.9,7659000
+rolls royce,ghost,2018,diesel,manual,156123,998,2,17.1,12965000
+rolls royce,spectre,2025,petrol,manual,135698,1396,1,25.6,17725000
+rolls royce,cullinan,2023,hybrid,manual,41218,1798,4,24,17795000
+aston martin,vantage,2023,petrol,manual,7811,3498,1,22.8,13683000
+aston martin,dbx,2017,cng,manual,97096,1598,1,18.1,4450000
+aston martin,dbx,2016,petrol,automatic,160187,2494,4,16.3,11260000
+aston martin,dbx,2013,petrol,manual,175106,2998,4,26.6,2697000
+aston martin,db11,2024,petrol,manual,40483,1197,2,12.2,9119000
+aston martin,vantage,2012,hybrid,automatic,16108,1197,3,24.9,1771000
+aston martin,dbx,2013,hybrid,automatic,114672,2998,2,21.5,4591000
+aston martin,dbx,2026,cng,manual,82188,1497,1,18.4,24287000
+aston martin,vantage,2018,hybrid,manual,49144,1197,4,14.4,9960000
+aston martin,db12,2022,diesel,manual,124431,2998,4,11.4,16860000
+aston martin,db12,2015,diesel,manual,41342,2198,1,26.4,7411000
+aston martin,db11,2026,cng,automatic,54300,1798,2,21.2,15502000
+mclaren,artura,2014,cng,manual,26909,2198,3,22.1,5332000
+mclaren,artura,2021,petrol,manual,82090,1497,4,11.6,5561000
+mclaren,570s,2016,diesel,manual,134495,1248,2,24.9,10941000
+mclaren,artura,2012,hybrid,manual,86642,1598,3,21.2,4600000
+mclaren,gt,2025,diesel,manual,96572,1998,1,23.3,21070000
+mclaren,570s,2018,cng,automatic,88242,3498,3,18.9,10814000
+mclaren,720s,2026,hybrid,automatic,82752,1248,1,13.9,21331000
+mclaren,570s,2020,petrol,automatic,79454,2494,3,23.2,10544000
+mclaren,570s,2015,cng,manual,30308,3498,2,13,3800000
+mclaren,artura,2014,diesel,manual,116556,1497,1,23.7,4624000
+mclaren,570s,2015,hybrid,manual,91537,2494,2,25.3,4037000
+mclaren,gt,2024,petrol,automatic,53780,1396,3,14.7,14053000
+bugatti,chiron,2023,hybrid,automatic,178280,1798,3,21.5,6737000
+bugatti,bolide,2018,hybrid,manual,39083,1798,1,25,9436000
+bugatti,veyron,2026,diesel,automatic,177455,3498,3,26.3,15712000
+bugatti,bolide,2026,diesel,automatic,59790,1798,1,20.1,23183000
+bugatti,chiron,2020,cng,manual,75273,2198,2,16,15963000
+bugatti,veyron,2019,petrol,manual,36402,2998,1,18,12928000
+bugatti,veyron,2013,hybrid,manual,101055,998,1,15.7,3023000
+bugatti,veyron,2015,cng,manual,51680,998,4,11,9770000
+bugatti,chiron,2024,petrol,automatic,153237,1197,1,20.9,7290000
+bugatti,chiron,2022,diesel,manual,15708,2494,1,26.1,15061000
+bugatti,veyron,2020,petrol,automatic,162991,1798,4,12.7,9019000
+bugatti,veyron,2024,cng,automatic,131293,1998,4,27.2,9503000
+koenigsegg,jesko,2020,diesel,manual,87470,1497,3,14,17303000
+koenigsegg,agera,2013,diesel,manual,128920,998,3,17.9,4164000
+koenigsegg,jesko,2015,cng,automatic,140467,2494,1,22.8,7206000
+koenigsegg,agera,2024,diesel,automatic,109803,1248,4,10.8,20673000
+koenigsegg,agera,2020,diesel,automatic,76266,1248,3,24.8,5721000
+koenigsegg,regera,2018,petrol,automatic,167535,998,3,26.6,9986000
+koenigsegg,regera,2019,petrol,manual,138055,3498,1,26.3,14071000
+koenigsegg,regera,2014,cng,manual,16833,2998,4,21,2958000
+koenigsegg,jesko,2019,diesel,automatic,104216,1197,3,23.3,11446000
+koenigsegg,agera,2022,cng,automatic,153270,1598,3,19.2,14022000
+koenigsegg,agera,2025,hybrid,automatic,132763,1497,2,13.1,6165000
+koenigsegg,agera,2022,diesel,automatic,169835,2198,4,13.9,13662000
+pagani,utopia,2021,diesel,automatic,153755,1248,2,21.1,17426000
+pagani,utopia,2013,diesel,automatic,125648,3498,2,12.7,6138000
+pagani,huayra,2022,cng,manual,63133,998,4,18.6,11374000
+pagani,utopia,2014,diesel,automatic,62303,2998,2,19.4,2441000
+pagani,utopia,2012,diesel,manual,171677,1998,2,12.1,2613000
+pagani,utopia,2022,diesel,manual,28070,1197,1,22.4,11018000
+pagani,huayra,2020,diesel,manual,27742,1598,3,17.5,8363000
+pagani,zonda,2016,diesel,manual,8671,1998,2,16.7,11672000
+pagani,zonda,2023,petrol,manual,5438,1248,2,18.2,16319000
+pagani,zonda,2023,hybrid,automatic,69877,1798,1,20.7,23654000
+pagani,huayra,2021,cng,manual,64035,1598,1,11.8,20821000
+pagani,utopia,2024,hybrid,manual,6941,1998,4,23.7,30412000
+genesis,g80,2023,hybrid,automatic,114927,3498,3,27.7,2822000
+genesis,g70,2017,diesel,manual,99817,1197,1,16.1,2661000
+genesis,gv80,2014,petrol,automatic,83094,2998,1,15.8,800000
+genesis,g80,2014,hybrid,manual,87053,1197,3,10.9,596000
+genesis,gv80,2026,diesel,manual,92219,1197,1,17.6,1932000
+genesis,gv80,2022,cng,manual,174891,1396,3,19.1,5844000
+genesis,gv80,2014,diesel,automatic,52469,2998,2,17,1595000
+genesis,gv70,2025,hybrid,automatic,36007,1396,2,10.6,6570000
+genesis,g80,2020,petrol,automatic,123366,1248,2,22.1,3098000
+genesis,g80,2019,diesel,manual,64748,2198,3,18.4,2361000
+genesis,g80,2013,hybrid,automatic,104235,1248,2,26.2,969000
+genesis,g80,2023,petrol,automatic,90544,1197,3,14.3,4552000
+polestar,polestar 4,2017,electric,manual,145829,2998,1,432,3715000
+polestar,polestar 4,2018,diesel,automatic,178728,1497,1,12.9,2496000
+polestar,polestar 3,2024,diesel,manual,34490,1998,1,10.3,4502000
+polestar,polestar 4,2021,hybrid,manual,10002,1197,2,14.3,6506000
+polestar,polestar 2,2024,electric,manual,52446,1197,2,363.6,3270000
+polestar,polestar 3,2026,hybrid,manual,61042,1197,1,10.5,4024000
+polestar,polestar 2,2016,petrol,automatic,178374,3498,4,19.1,1625000
+polestar,polestar 3,2025,hybrid,automatic,139988,2494,2,25.2,1854000
+polestar,polestar 4,2014,hybrid,automatic,138737,2494,1,15.6,2099000
+polestar,polestar 4,2019,electric,manual,178986,2198,2,278,2576000
+polestar,polestar 3,2014,electric,automatic,139323,2198,3,430.7,2152000
+polestar,polestar 4,2017,electric,manual,51838,1396,3,262.7,4443000
+rivian,r1t,2018,hybrid,manual,72514,1598,1,25.8,4298000
+rivian,r1t,2024,petrol,manual,78397,1396,1,19,6198000
+rivian,r1t,2019,hybrid,manual,91974,1197,3,16.3,1205000
+rivian,r1s,2020,hybrid,manual,148833,1396,1,27.5,5161000
+rivian,r1s,2019,petrol,automatic,151351,1197,3,19.5,1574000
+rivian,r1t,2015,petrol,manual,106397,1396,4,26.7,1475000
+rivian,r1t,2017,diesel,manual,130624,998,1,20.8,1642000
+rivian,r1s,2012,electric,automatic,93667,1248,2,448.9,838000
+rivian,r1t,2017,petrol,manual,161367,1248,1,15.8,1571000
+rivian,r1s,2017,diesel,manual,81350,1197,3,11.9,2492000
+rivian,r1s,2023,hybrid,manual,157438,1598,4,26.6,2604000
+rivian,r1t,2025,electric,automatic,167545,2998,2,344.4,5262000
+lucid,air,2022,hybrid,automatic,76661,1248,4,26.2,2975000
+lucid,air,2019,diesel,automatic,14886,998,1,21.8,3841000
+lucid,air,2020,diesel,manual,19641,3498,2,23.5,5212000
+lucid,gravity,2019,electric,manual,59668,1396,2,411.2,5184000
+lucid,air,2024,electric,manual,68291,1248,1,365.8,4921000
+lucid,air,2022,hybrid,manual,113971,1497,3,16.2,2956000
+lucid,gravity,2026,petrol,automatic,70060,1998,2,27.4,3717000
+lucid,gravity,2013,petrol,manual,143480,998,4,17.7,1079000
+lucid,gravity,2020,petrol,manual,84133,1197,1,20.1,1181000
+lucid,air,2022,petrol,automatic,92859,2198,3,25.6,1695000
+lucid,gravity,2025,diesel,manual,136559,2998,1,25.6,5089000
+lucid,air,2013,diesel,automatic,41279,2998,2,21.7,815000
+nio,et7,2012,electric,manual,63007,1998,3,311.3,1036000
+nio,et5,2019,petrol,automatic,138265,1248,1,15.3,711000
+nio,es8,2014,diesel,automatic,111063,1396,3,15.4,626000
+nio,et5,2013,diesel,automatic,10642,998,4,23.1,1671000
+nio,es8,2016,petrol,automatic,86480,1598,1,17.9,913000
+nio,et7,2023,diesel,automatic,79314,1998,3,26.2,1933000
+nio,es8,2024,electric,manual,71089,1197,1,355.6,751000
+nio,et7,2016,electric,automatic,138242,1497,4,525.8,2101000
+nio,et5,2026,electric,automatic,74379,0,2,328.8,4657000
+nio,es8,2016,electric,automatic,38067,1598,4,399.4,709000
+nio,es6,2014,hybrid,manual,149337,1197,1,17.7,742000
+nio,es6,2015,petrol,manual,68414,1798,2,11.2,1464000
+xpeng,p7,2022,electric,automatic,131835,1248,1,467.1,4134000
+xpeng,p7,2026,petrol,automatic,150889,1197,4,10.4,1100000
+xpeng,p7,2020,petrol,automatic,44542,1798,2,17.7,2250000
+xpeng,g9,2025,hybrid,automatic,91617,3498,3,12.7,4990000
+xpeng,g9,2026,electric,manual,87544,2494,4,449.6,1309000
+xpeng,g9,2023,hybrid,manual,77088,1497,2,19.4,949000
+xpeng,g6,2018,hybrid,automatic,57070,1396,1,16.6,2721000
+xpeng,p7,2024,petrol,automatic,109575,1197,4,22.5,3217000
+xpeng,g9,2013,electric,manual,29656,0,2,264.2,1128000
+xpeng,g9,2014,petrol,manual,10943,2198,4,11.3,933000
+xpeng,g6,2017,petrol,manual,66579,998,1,20.7,1890000
+xpeng,g9,2026,hybrid,manual,36540,1197,3,20,3571000
+geely,monjaro,2015,hybrid,automatic,136294,2998,1,24.5,454000
+geely,coolray,2019,cng,automatic,55642,1396,3,26.8,1284000
+geely,emgrand,2025,hybrid,manual,76793,1798,2,18.8,668000
+geely,coolray,2017,petrol,manual,96392,998,4,26.8,290000
+geely,coolray,2013,petrol,manual,138462,1197,4,26.2,518000
+geely,emgrand,2013,petrol,automatic,125457,1998,1,23.6,531000
+geely,emgrand,2025,cng,manual,106753,1396,1,22.6,1130000
+geely,emgrand,2012,cng,automatic,120589,1598,2,23.6,246000
+geely,emgrand,2019,petrol,automatic,38825,1798,4,18.7,1080000
+geely,monjaro,2012,petrol,manual,74557,1798,2,20.5,459000
+geely,monjaro,2021,cng,automatic,116554,2494,4,21.2,608000
+geely,monjaro,2012,cng,manual,20911,1396,4,19.5,150000
+chery,tiggo 8,2020,cng,manual,19002,1998,1,14,791000
+chery,tiggo 8,2025,hybrid,manual,108042,1998,3,16.1,2008000
+chery,tiggo 7,2024,hybrid,automatic,131028,1798,2,16.6,871000
+chery,tiggo 4,2023,petrol,manual,37165,1497,2,27,556000
+chery,tiggo 7,2026,petrol,manual,21717,1497,4,24.7,815000
+chery,tiggo 7,2024,hybrid,manual,145079,1197,4,21,1181000
+chery,tiggo 8,2014,diesel,automatic,12017,3498,3,25.9,814000
+chery,tiggo 7,2026,cng,automatic,40478,2494,1,19,1867000
+chery,tiggo 4,2021,cng,manual,171238,2494,4,15,833000
+chery,tiggo 4,2020,hybrid,automatic,168861,1798,4,21.6,256000
+chery,tiggo 7,2022,diesel,manual,24142,1197,2,14.2,680000
+chery,tiggo 8,2017,petrol,automatic,43125,1798,2,13.9,1113000
+great wall,haval h6,2017,cng,manual,68152,1998,2,26.4,937000
+great wall,haval h6,2026,hybrid,automatic,162741,2494,3,21.4,1955000
+great wall,jolion,2021,cng,automatic,125218,998,4,27.2,925000
+great wall,jolion,2014,hybrid,automatic,69779,998,2,19.2,332000
+great wall,jolion,2012,diesel,automatic,63130,1248,4,19.5,456000
+great wall,jolion,2012,hybrid,manual,33608,1396,3,15.3,370000
+great wall,jolion,2015,diesel,automatic,116942,3498,3,15.1,680000
+great wall,tank 300,2026,petrol,automatic,49443,1598,4,10.6,849000
+great wall,jolion,2021,cng,automatic,135172,1798,2,20.9,544000
+great wall,jolion,2019,petrol,automatic,20691,1998,2,27.9,802000
+great wall,haval h6,2021,cng,automatic,135929,2494,1,19.8,844000
+great wall,jolion,2015,cng,manual,155037,1197,2,26.7,767000
+gac,gs3,2016,hybrid,manual,16583,1248,3,10.1,840000
+gac,gs8,2025,diesel,automatic,32380,1598,4,17.2,710000
+gac,emkoo,2021,hybrid,manual,118505,1197,3,15.3,1388000
+gac,emkoo,2019,petrol,manual,75013,3498,2,27.1,1332000
+gac,gs8,2024,cng,automatic,83844,2494,1,10.6,1506000
+gac,gs3,2018,cng,manual,44161,1998,2,16.3,1086000
+gac,emkoo,2025,hybrid,automatic,90232,2494,1,14.9,867000
+gac,gs8,2016,petrol,manual,155377,2494,2,26.2,576000
+gac,emkoo,2025,hybrid,manual,43415,3498,1,20.3,1444000
+gac,gs8,2022,cng,manual,63640,1396,4,14.3,346000
+gac,gs3,2020,diesel,manual,160134,1998,1,19.4,836000
+gac,gs8,2015,diesel,automatic,40042,2494,3,13.6,334000
+proton,x50,2024,hybrid,manual,104752,2998,4,15.2,760000
+proton,x70,2017,cng,manual,144379,1998,1,25.2,152000
+proton,x70,2014,diesel,automatic,147063,2198,4,18.2,340000
+proton,x70,2015,diesel,manual,103088,1197,2,14.1,526000
+proton,x70,2022,diesel,manual,72753,1248,3,18.8,1122000
+proton,x70,2017,hybrid,automatic,15410,1798,2,18.4,962000
+proton,x50,2020,diesel,manual,73560,1598,1,20.5,873000
+proton,x50,2013,diesel,manual,147757,2198,3,16.1,439000
+proton,x70,2020,hybrid,manual,30168,1798,4,15.1,346000
+proton,x50,2017,petrol,automatic,121839,1396,1,19.2,313000
+proton,x70,2017,diesel,automatic,158006,3498,1,25.7,356000
+proton,saga,2024,hybrid,automatic,8690,1497,4,25.7,2096000
+perodua,bezza,2022,cng,automatic,71652,2494,1,22.8,1378000
+perodua,axia,2019,hybrid,manual,43701,1248,4,21.6,648000
+perodua,ativa,2013,petrol,manual,47191,1197,4,25.5,574000
+perodua,myvi,2016,cng,automatic,178385,998,3,20,439000
+perodua,bezza,2025,hybrid,manual,65885,1497,2,13,1563000
+perodua,bezza,2024,hybrid,manual,27189,1497,4,26.1,598000
+perodua,myvi,2022,diesel,automatic,101243,1497,3,14.9,292000
+perodua,axia,2023,petrol,automatic,96744,2198,4,20.4,672000
+perodua,myvi,2016,hybrid,automatic,33971,2494,2,16.5,349000
+perodua,ativa,2014,petrol,manual,36039,1598,4,10.6,655000
+perodua,myvi,2012,cng,automatic,151217,998,2,25.9,150000
+perodua,ativa,2025,hybrid,automatic,126622,2198,2,19.5,1201000
+tvr,sagaris,2023,hybrid,automatic,20792,1396,3,11.3,1315000
+tvr,sagaris,2019,diesel,automatic,122536,2998,2,27.8,249000
+tvr,griffith,2016,hybrid,automatic,160074,998,3,23.6,252000
+tvr,griffith,2021,cng,automatic,93987,1396,2,12.4,368000
+tvr,griffith,2023,petrol,automatic,115889,1497,4,13.9,599000
+tvr,sagaris,2015,cng,automatic,98433,3498,3,16.9,560000
+tvr,sagaris,2022,petrol,manual,133950,3498,1,25.2,551000
+tvr,sagaris,2019,cng,manual,65532,2198,2,23.9,854000
+tvr,sagaris,2012,diesel,automatic,13850,1998,2,12.1,298000
+tvr,griffith,2021,diesel,automatic,132393,1248,1,13,1276000
+tvr,griffith,2015,hybrid,automatic,125751,998,2,10.5,424000
+tvr,sagaris,2019,diesel,manual,108621,1598,4,26.6,485000
+lotus,emira,2022,cng,automatic,12567,3498,4,27.7,24302000
+lotus,eletre,2012,diesel,automatic,41939,2494,1,23.3,6634000
+lotus,emira,2024,diesel,automatic,84915,2494,2,22.3,10204000
+lotus,evija,2026,cng,manual,50873,1497,1,10.8,20415000
+lotus,eletre,2017,diesel,automatic,80568,1248,2,13.8,12985000
+lotus,evija,2025,petrol,automatic,14365,2494,3,16.8,8473000
+lotus,evija,2016,diesel,manual,147263,1396,2,23.6,6972000
+lotus,eletre,2018,cng,manual,79407,2198,4,18.2,6430000
+lotus,evija,2022,cng,automatic,59237,1197,4,17.5,15782000
+lotus,emira,2024,diesel,automatic,101577,3498,4,10.7,12154000
+lotus,evija,2025,diesel,automatic,6586,1248,4,12.1,17946000
+lotus,emira,2013,diesel,automatic,74031,1798,1,10,4251000
+smart,fortwo,2014,petrol,manual,100292,1396,2,19.9,306000
+smart,fortwo,2018,petrol,manual,169622,1197,1,12.3,547000
+smart,fortwo,2025,hybrid,automatic,112326,1998,3,27.8,1437000
+smart,fortwo,2017,hybrid,manual,39110,1998,1,17.6,1071000
+smart,#1,2018,hybrid,manual,29413,3498,3,16.8,687000
+smart,#1,2016,hybrid,automatic,13195,3498,3,20.2,543000
+smart,#3,2025,petrol,automatic,97410,2198,2,18.2,571000
+smart,fortwo,2024,petrol,manual,154228,998,4,22.8,1649000
+smart,#3,2020,petrol,manual,31505,2198,1,11.1,394000
+smart,#1,2015,cng,manual,107102,1497,3,22.6,477000
+smart,#1,2020,petrol,manual,102675,2998,4,22,1124000
+smart,#1,2023,diesel,automatic,18201,1248,1,10.2,1894000
+ssangyong,rexton,2024,petrol,automatic,147233,1248,3,15.1,1845000
+ssangyong,korando,2013,diesel,automatic,144308,3498,4,25.8,150000
+ssangyong,tivoli,2013,hybrid,automatic,29186,2998,1,19.3,374000
+ssangyong,korando,2022,petrol,automatic,5090,1248,1,26.5,813000
+ssangyong,rexton,2021,hybrid,manual,20834,1998,4,14.6,1379000
+ssangyong,korando,2017,diesel,manual,53173,1798,2,13.3,328000
+ssangyong,korando,2014,cng,manual,25688,3498,2,19.1,301000
+ssangyong,rexton,2014,cng,automatic,128670,2198,1,25.8,238000
+ssangyong,korando,2024,diesel,automatic,20613,1998,3,11.2,1646000
+ssangyong,tivoli,2019,petrol,manual,100153,1197,3,21,1286000
+ssangyong,rexton,2025,hybrid,automatic,57789,1798,1,20.1,2046000
+ssangyong,korando,2024,cng,automatic,40185,3498,3,11.8,1859000
+mahindra electric,xev 9e,2021,diesel,manual,46339,2198,2,11.5,1700000
+mahindra electric,xev 9e,2021,diesel,automatic,22602,998,2,23.5,1949000
+mahindra electric,xuv400 ev,2016,petrol,manual,137887,2198,4,15,1300000
+mahindra electric,xev 9e,2023,petrol,automatic,19206,1396,2,14.2,3400000
+mahindra electric,be 6,2017,diesel,automatic,86941,1798,2,15.7,698000
+mahindra electric,xuv400 ev,2017,hybrid,manual,155164,1998,2,16.8,386000
+mahindra electric,xev 9e,2017,electric,manual,47938,1197,1,545.6,1454000
+mahindra electric,xev 9e,2022,diesel,manual,3882,1248,4,21.4,2010000
+mahindra electric,be 6,2015,petrol,automatic,138356,1598,1,23.5,1133000
+mahindra electric,xev 9e,2014,hybrid,manual,116727,3498,1,14.5,1394000
+mahindra electric,xev 9e,2019,electric,manual,117775,2198,4,434.4,557000
+mahindra electric,be 6,2018,diesel,automatic,29844,1248,1,14.9,3045000
+force motors,urbania,2024,diesel,automatic,46272,2998,1,16.7,594000
+force motors,urbania,2025,diesel,automatic,35204,2198,2,18.1,596000
+force motors,gurkha,2019,hybrid,automatic,147390,2198,1,25.6,776000
+force motors,traveller,2021,diesel,automatic,111140,1998,1,14.8,341000
+force motors,gurkha,2015,petrol,automatic,119699,2494,3,23.7,342000
+force motors,gurkha,2025,petrol,manual,83290,1798,2,26.5,1674000
+force motors,traveller,2014,hybrid,automatic,153497,3498,4,18.4,335000
+force motors,gurkha,2015,petrol,manual,72079,1396,4,13.1,610000
+force motors,traveller,2015,petrol,automatic,172811,2494,1,21.5,596000
+force motors,traveller,2020,diesel,automatic,117418,1248,2,26.9,753000
+force motors,gurkha,2022,diesel,manual,128876,1998,2,18.1,1089000
+force motors,urbania,2014,petrol,manual,122179,1396,3,14.9,615000
+hindustan motors,ambassador,2025,diesel,manual,61631,1598,3,13.4,1804000
+hindustan motors,ambassador,2016,cng,manual,25811,2198,1,27,739000
+hindustan motors,ambassador,2015,hybrid,automatic,20402,998,3,23,709000
+hindustan motors,contessa,2020,hybrid,automatic,13056,2494,1,16.8,332000
+hindustan motors,ambassador,2020,petrol,manual,179295,998,2,24.9,269000
+hindustan motors,contessa,2012,cng,automatic,128974,2998,2,13.3,150000
+hindustan motors,ambassador,2014,cng,manual,65633,1197,2,13.4,657000
+hindustan motors,ambassador,2012,petrol,manual,13073,2998,4,15.6,460000
+hindustan motors,contessa,2013,hybrid,manual,28235,2198,1,20.8,150000
+hindustan motors,contessa,2015,petrol,automatic,36375,998,2,20.9,573000
+hindustan motors,contessa,2021,cng,automatic,128805,3498,2,22.2,964000
+hindustan motors,ambassador,2013,hybrid,automatic,67548,998,3,19.1,487000
+premier,rio,2023,diesel,manual,89998,1248,4,11,1597000
+premier,padmini,2026,cng,automatic,155942,1197,2,15.2,545000
+premier,padmini,2021,petrol,automatic,100957,2198,4,21.7,898000
+premier,padmini,2015,cng,automatic,19655,1197,3,26.8,604000
+premier,rio,2016,hybrid,manual,165253,1998,4,26.7,714000
+premier,padmini,2013,petrol,automatic,14075,1197,3,11.7,225000
+premier,padmini,2014,cng,manual,142945,1998,4,12.6,699000
+premier,rio,2015,diesel,automatic,5299,1396,4,16,827000
+premier,padmini,2020,hybrid,automatic,137507,2198,4,12.5,550000
+premier,rio,2026,cng,manual,37486,1998,1,18.7,943000
+premier,padmini,2015,petrol,automatic,94740,1197,1,13,402000
+premier,padmini,2018,hybrid,automatic,53421,1497,3,15.8,459000
+bajaj,qute,2025,hybrid,automatic,129244,2494,2,12.1,1882000
+bajaj,qute,2025,cng,manual,64160,2494,2,25.8,838000
+bajaj,qute,2019,petrol,manual,93600,1497,2,18.8,848000
+bajaj,qute,2022,petrol,manual,145309,1197,2,15.6,352000
+bajaj,qute,2020,petrol,automatic,3787,1197,3,11.3,347000
+bajaj,qute,2012,diesel,manual,62949,1248,4,13.4,150000
+bajaj,qute,2023,diesel,manual,60529,3498,4,20.7,507000
+bajaj,qute,2014,cng,automatic,128657,2198,1,24.8,458000
+bajaj,qute,2019,diesel,automatic,28148,3498,1,22,623000
+bajaj,qute,2019,petrol,automatic,51787,1197,4,13.4,330000
+bajaj,qute,2021,petrol,automatic,27197,998,1,17.8,882000
+bajaj,qute,2018,diesel,automatic,130521,1798,1,18.8,917000
+ashok leyland,stile,2012,hybrid,manual,136864,1598,1,18.6,469000
+ashok leyland,stile,2014,hybrid,manual,59494,1396,1,28,415000
+ashok leyland,dost,2017,petrol,manual,13953,998,2,20.8,394000
+ashok leyland,stile,2013,hybrid,manual,168833,1798,2,21.1,345000
+ashok leyland,stile,2019,petrol,automatic,133531,1197,4,11.5,1160000
+ashok leyland,stile,2016,petrol,manual,79824,2198,3,24.4,846000
+ashok leyland,dost,2015,hybrid,manual,74951,2998,3,19.1,198000
+ashok leyland,stile,2013,hybrid,manual,51670,998,2,14.4,494000
+ashok leyland,stile,2014,diesel,manual,95866,2998,4,15.3,473000
+ashok leyland,dost,2014,diesel,automatic,148454,1197,3,11.9,327000
+ashok leyland,dost,2018,cng,manual,143808,1998,2,23.9,303000
+ashok leyland,stile,2025,petrol,automatic,23549,998,1,15.9,2092000
+isuzu,mu x,2016,diesel,automatic,102226,1598,1,22.2,941000
+isuzu,v cross,2024,diesel,automatic,64280,1998,1,20.7,777000
+isuzu,d max,2022,diesel,automatic,125846,1998,2,12.4,709000
+isuzu,mu x,2012,hybrid,automatic,9426,2998,2,12.9,504000
+isuzu,mu x,2022,diesel,automatic,4792,2998,2,18.2,1370000
+isuzu,v cross,2012,diesel,automatic,156331,3498,3,20,263000
+isuzu,d max,2020,cng,manual,100169,3498,1,17.9,1410000
+isuzu,d max,2025,petrol,manual,126658,3498,1,10.5,704000
+isuzu,v cross,2024,hybrid,manual,16236,1197,2,22.5,1676000
+isuzu,mu x,2024,petrol,automatic,150693,1798,1,26.3,960000
+isuzu,v cross,2024,hybrid,manual,94314,1396,3,19.1,910000
+isuzu,d max,2023,cng,manual,26714,1798,2,11,1224000
+tata motors,harrier,2021,petrol,manual,112746,2494,1,11,309000
+tata motors,safari,2016,hybrid,manual,63581,1998,2,17.2,392000
+tata motors,nexon,2017,cng,automatic,18285,2998,2,26.6,1101000
+tata motors,safari,2022,cng,automatic,101695,3498,3,14.5,1582000
+tata motors,nexon,2014,cng,manual,61195,1396,3,10.1,412000
+tata motors,punch,2016,diesel,manual,36251,998,1,16.6,194000
+tata motors,safari,2014,diesel,automatic,123196,2494,4,15.9,543000
+tata motors,safari,2012,cng,manual,101986,998,1,10.6,351000
+tata motors,safari,2021,hybrid,manual,168949,2998,1,10.4,457000
+tata motors,safari,2015,diesel,manual,142752,998,3,15.2,365000
+tata motors,safari,2013,hybrid,automatic,112690,1396,4,15.6,295000
+tata motors,safari,2024,diesel,automatic,82141,1798,2,17.4,1662000
+mercedes benz,glc,2022,diesel,manual,149329,2998,2,26.8,3320000
+mercedes benz,glc,2016,diesel,manual,127828,2998,3,20.1,936000
+mercedes benz,gle,2014,cng,automatic,122722,2198,3,13.8,1219000
+mercedes benz,glc,2016,cng,manual,3438,2998,2,21,4109000
+mercedes benz,c class,2020,hybrid,automatic,129919,2494,2,17.1,4334000
+mercedes benz,s class,2025,diesel,manual,103980,998,4,21.6,3982000
+mercedes benz,gle,2012,cng,automatic,90891,2494,2,22.3,1055000
+mercedes benz,e class,2019,hybrid,automatic,128187,3498,2,27.5,1453000
+mercedes benz,s class,2025,hybrid,manual,110869,1248,4,19.8,6906000
+mercedes benz,gle,2019,cng,automatic,156679,1197,4,16.9,4206000
+mercedes benz,glc,2026,diesel,automatic,22219,1197,4,25.1,8757000
+mercedes benz,glc,2019,petrol,manual,5918,1598,3,13,1222000
+maruti,dzire,2016,hybrid,automatic,43408,1998,1,12.8,805000
+maruti,baleno,2017,hybrid,automatic,99305,2998,1,14.1,679000
+maruti,baleno,2021,diesel,manual,87974,3498,1,12.1,1599000
+maruti,brezza,2018,hybrid,automatic,100916,1497,2,19.3,474000
+maruti,baleno,2012,hybrid,manual,91195,3498,2,21.2,310000
+maruti,dzire,2019,cng,automatic,92196,2998,2,13.3,283000
+maruti,brezza,2016,hybrid,manual,155350,1598,1,25.1,150000
+maruti,baleno,2014,hybrid,manual,27859,1396,2,18,280000
+maruti,baleno,2020,diesel,automatic,148159,1396,1,23.4,703000
+maruti,swift,2012,hybrid,automatic,143188,1497,2,23,328000
+maruti,brezza,2025,hybrid,manual,72109,1598,2,24,517000
+maruti,baleno,2018,hybrid,automatic,61068,2494,2,11.6,440000
+daewoo,matiz,2019,hybrid,automatic,156894,2998,1,27.1,988000
+daewoo,cielo,2022,diesel,manual,26014,1798,2,14,271000
+daewoo,espero,2023,petrol,automatic,28345,1248,2,13.6,712000
+daewoo,matiz,2017,cng,manual,60969,1998,4,26,688000
+daewoo,cielo,2020,cng,manual,67694,1197,2,15.8,686000
+daewoo,espero,2019,cng,automatic,52119,1598,2,25,1110000
+daewoo,espero,2017,cng,manual,159674,2198,1,21.6,330000
+daewoo,matiz,2015,petrol,manual,173831,1998,2,17.5,465000
+daewoo,cielo,2016,petrol,automatic,148517,1248,3,24.5,190000
+daewoo,cielo,2021,diesel,automatic,8347,2494,2,13.2,427000
+daewoo,matiz,2022,hybrid,manual,64958,1497,2,14.4,621000
+daewoo,espero,2023,diesel,manual,40204,1396,4,13.7,1841000
+saab,09-Mar,2025,petrol,automatic,31059,1598,3,25.8,2063000
+saab,09-Mar,2015,petrol,manual,163778,2998,2,22.2,444000
+saab,09-Mar,2015,diesel,manual,40386,1197,1,16.8,403000
+saab,09-May,2025,diesel,manual,111116,1396,4,16.2,1606000
+saab,900,2023,hybrid,manual,60000,1798,4,15,1822000
+saab,09-Mar,2012,cng,automatic,33267,1598,1,18.8,549000
+saab,09-Mar,2023,petrol,automatic,64598,3498,2,21.1,888000
+saab,09-May,2022,petrol,automatic,109248,1197,1,19.8,1158000
+saab,900,2026,diesel,manual,55996,998,1,10.4,1523000
+saab,09-May,2023,hybrid,automatic,46199,1798,3,22.3,995000
+saab,09-Mar,2013,petrol,automatic,61636,2198,4,17.9,230000
+saab,900,2022,hybrid,automatic,137232,3498,4,23.6,1592000
+lada,granta,2025,hybrid,manual,132257,2494,3,26.8,993000
+lada,vesta,2014,cng,automatic,94144,2998,3,17.8,549000
+lada,granta,2023,hybrid,manual,173254,1248,1,22.8,1117000
+lada,granta,2020,hybrid,automatic,163522,1798,4,20.4,719000
+lada,niva,2022,hybrid,automatic,48138,2198,4,24.3,1012000
+lada,vesta,2021,petrol,manual,36446,2998,1,19.2,284000
+lada,niva,2013,cng,automatic,47280,2998,3,15.6,594000
+lada,niva,2024,petrol,automatic,93541,1598,3,23.5,1577000
+lada,vesta,2017,diesel,manual,49313,1396,1,26.7,456000
+lada,niva,2014,hybrid,manual,60865,1197,4,14.5,386000
+lada,niva,2018,hybrid,manual,93722,1497,2,21.9,415000
+lada,vesta,2021,hybrid,manual,173144,2198,2,24.7,709000
+moskvich,412,2017,diesel,manual,127689,998,1,23.6,727000
+moskvich,412,2021,petrol,manual,150993,3498,2,14.1,574000
+moskvich,6,2022,hybrid,automatic,172960,1197,3,16.3,935000
+moskvich,412,2012,petrol,automatic,60484,998,1,12.8,150000
+moskvich,6,2013,cng,automatic,117858,2494,1,17.5,348000
+moskvich,3,2013,petrol,manual,39573,1396,2,13.2,150000
+moskvich,3,2012,petrol,manual,120900,1998,2,26.8,407000
+moskvich,412,2026,cng,manual,27347,1798,3,11.1,2171000
+moskvich,6,2016,diesel,manual,78723,1396,4,22.3,213000
+moskvich,412,2021,hybrid,manual,114112,1798,3,10.6,367000
+moskvich,412,2017,cng,manual,50921,1396,3,26.8,299000
+moskvich,6,2021,diesel,manual,112903,1497,2,18.5,1291000
+zaz,sens,2013,diesel,automatic,124350,998,2,24.3,606000
+zaz,sens,2017,cng,manual,116763,1998,1,20.9,639000
+zaz,lanos,2025,cng,manual,132621,2198,1,14.3,1386000
+zaz,sens,2019,diesel,automatic,52152,1497,2,17,1371000
+zaz,forza,2015,petrol,manual,145360,1598,2,22.7,218000
+zaz,sens,2012,diesel,manual,7994,2198,1,16.2,514000
+zaz,lanos,2020,diesel,manual,102794,1396,3,21.2,214000
+zaz,forza,2014,diesel,manual,39053,1197,3,12.2,228000
+zaz,lanos,2021,diesel,automatic,3341,3498,4,10.4,494000
+zaz,forza,2017,cng,automatic,164884,2198,2,18.3,559000
+zaz,lanos,2015,petrol,automatic,177680,2998,2,26.7,169000
+zaz,sens,2019,petrol,manual,120407,1798,4,19.4,740000
+tata daewoo,novus,2026,cng,automatic,58058,1497,3,12.4,404000
+tata daewoo,prima,2018,petrol,automatic,146422,2198,1,19.5,928000
+tata daewoo,prima,2019,cng,automatic,146885,2998,3,19.8,687000
+tata daewoo,novus,2014,cng,automatic,86992,2998,3,17,644000
+tata daewoo,prima,2014,diesel,manual,94810,1798,4,21.9,708000
+tata daewoo,prima,2019,petrol,manual,156431,1497,1,26.6,368000
+tata daewoo,prima,2016,cng,automatic,97981,2494,1,12.5,784000
+tata daewoo,novus,2021,cng,manual,106741,1798,3,10.6,547000
+tata daewoo,prima,2013,diesel,manual,63656,1998,4,19,257000
+tata daewoo,prima,2017,petrol,manual,35861,1248,4,20.9,1024000
+tata daewoo,prima,2015,hybrid,manual,40127,1197,4,25.8,735000
+tata daewoo,prima,2013,diesel,manual,172748,3498,1,22.9,393000
+fisker,ocean,2012,diesel,automatic,178067,3498,1,11.9,303000
+fisker,ocean,2017,hybrid,automatic,25962,2198,4,14.9,796000
+fisker,ocean,2017,electric,manual,91140,998,1,379.6,2095000
+fisker,ocean,2021,petrol,automatic,28662,1798,3,13.5,4527000
+fisker,ocean,2021,electric,manual,12695,998,4,398,3255000
+fisker,karma,2017,electric,automatic,81060,1598,1,320.3,548000
+fisker,ocean,2015,electric,manual,41963,1497,2,547.1,621000
+fisker,karma,2025,petrol,automatic,77886,998,1,15.8,4256000
+fisker,ocean,2015,electric,automatic,19856,1497,1,351.9,2179000
+fisker,ocean,2021,diesel,manual,66209,2998,2,14.3,4159000
+fisker,karma,2020,electric,automatic,90668,998,1,298.5,3232000
+fisker,karma,2016,hybrid,manual,33509,3498,2,10.8,849000
+karma,gs-6,2015,cng,automatic,47358,1598,2,11.6,784000
+karma,gs-6,2025,petrol,manual,37229,1396,3,26.2,1127000
+karma,gs-6,2015,hybrid,manual,118397,1998,3,18.6,634000
+karma,gs-6,2017,cng,automatic,65845,1998,4,19.8,940000
+karma,revero,2012,diesel,automatic,58458,2998,1,16.8,454000
+karma,gs-6,2025,diesel,automatic,136370,1197,4,26.6,1479000
+karma,revero,2019,diesel,automatic,45743,1396,1,16.6,633000
+karma,gs-6,2018,hybrid,automatic,121420,1798,3,18.1,356000
+karma,gs-6,2016,hybrid,automatic,54867,3498,2,17.1,430000
+karma,gs-6,2019,hybrid,automatic,127548,1197,1,20.6,1039000
+karma,revero,2014,hybrid,automatic,52793,2198,4,26.4,619000
+karma,revero,2023,diesel,manual,117540,1598,1,13.1,1193000
+vinfast,vf 6,2024,hybrid,manual,117910,1798,4,12.8,2581000
+vinfast,vf 7,2014,hybrid,manual,51534,2198,2,15.6,815000
+vinfast,vf 8,2025,petrol,manual,98452,1998,3,11.3,862000
+vinfast,vf 6,2019,electric,automatic,138372,2494,1,305.9,2143000
+vinfast,vf 6,2015,hybrid,automatic,107621,1998,3,22.4,601000
+vinfast,vf 9,2018,hybrid,automatic,119600,1798,2,15.5,1631000
+vinfast,vf 9,2022,electric,manual,129024,1998,2,524.6,789000
+vinfast,vf 8,2016,hybrid,automatic,149510,2494,2,19,2209000
+vinfast,vf 9,2016,hybrid,manual,107343,2998,3,15.7,1142000
+vinfast,vf 7,2022,petrol,automatic,144284,2998,2,16.9,2773000
+vinfast,vf 9,2021,electric,automatic,94822,1497,3,489.5,3510000
+vinfast,vf 9,2021,diesel,manual,113947,1598,1,19.2,747000
+denza,n7,2017,petrol,automatic,92039,2998,1,22.8,235000
+denza,n8,2021,diesel,automatic,96628,998,3,16.9,1333000
+denza,n7,2018,diesel,automatic,8529,2198,1,17.8,311000
+denza,n7,2026,petrol,manual,98196,1598,3,18.5,943000
+denza,n7,2012,petrol,manual,163663,998,1,18.1,150000
+denza,d9,2021,cng,automatic,52601,2998,1,17.1,1011000
+denza,n7,2012,petrol,automatic,6434,1497,3,19.7,565000
+denza,n7,2025,hybrid,automatic,128111,3498,3,15.3,808000
+denza,n8,2013,cng,manual,111282,3498,3,21.8,386000
+denza,n8,2014,cng,manual,25547,2198,2,18.7,741000
+denza,n8,2026,hybrid,automatic,21431,1197,4,11.3,2261000
+denza,n7,2015,petrol,manual,131091,1798,4,25,839000
+zeekr,1,2026,diesel,manual,23794,2998,4,13.2,1407000
+zeekr,1,2022,electric,automatic,145703,998,1,434.3,3690000
+zeekr,9,2025,petrol,automatic,36640,998,3,18.1,4270000
+zeekr,1,2023,diesel,automatic,66134,1598,3,12,982000
+zeekr,x,2013,electric,automatic,123181,0,2,542.8,687000
+zeekr,9,2019,electric,manual,5494,1396,4,295.8,3107000
+zeekr,1,2020,petrol,automatic,109767,1248,2,20,3455000
+zeekr,1,2023,petrol,automatic,8798,2198,3,23.9,2916000
+zeekr,1,2020,electric,manual,71022,2494,3,411.1,3343000
+zeekr,x,2021,petrol,manual,149578,1598,3,19.2,1000000
+zeekr,9,2018,hybrid,manual,154245,998,3,13.5,1226000
+zeekr,9,2016,hybrid,manual,29520,1248,1,19.6,764000
+ora,funky cat,2022,electric,manual,8395,1497,4,536.9,3120000
+ora,good cat,2020,petrol,automatic,160120,1396,4,24.7,1836000
+ora,funky cat,2022,diesel,manual,77856,2494,1,24.3,2627000
+ora,funky cat,2019,petrol,manual,87697,2494,1,25.5,895000
+ora,good cat,2025,electric,automatic,74640,2494,3,336.7,5339000
+ora,funky cat,2026,electric,manual,65899,1798,1,288.9,1499000
+ora,funky cat,2026,electric,manual,164034,1197,4,548.3,5303000
+ora,funky cat,2014,electric,manual,14554,0,3,427,666000
+ora,funky cat,2018,hybrid,automatic,81736,1998,2,19.6,955000
+ora,funky cat,2024,hybrid,manual,129354,3498,3,16.3,1485000
+ora,good cat,2015,electric,manual,100972,1396,1,532,668000
+ora,funky cat,2012,diesel,manual,144253,1396,2,24.8,425000
+seres,3,2018,cng,manual,168452,2494,4,25.4,955000
+seres,5,2020,hybrid,manual,100497,1998,4,11.1,261000
+seres,3,2025,cng,manual,13407,2198,1,25.1,361000
+seres,7,2026,petrol,automatic,169331,998,1,18.5,848000
+seres,7,2022,petrol,manual,6226,998,3,19.2,1861000
+seres,7,2025,petrol,automatic,25056,1798,3,14.2,1669000
+seres,7,2017,hybrid,manual,138588,2998,2,19.4,566000
+seres,7,2020,petrol,manual,15097,1998,2,10.9,1214000
+seres,7,2015,cng,manual,171540,1396,3,18.8,466000
+seres,7,2022,petrol,manual,98907,1998,4,27.6,1632000
+seres,7,2020,petrol,manual,87134,1998,3,12.6,1227000
+seres,5,2012,diesel,manual,24032,1798,4,13,273000
+mahindra reva,e2o plus,2015,electric,manual,131077,1197,1,518.9,1684000
+mahindra reva,e2o,2026,diesel,manual,59658,1248,1,18.5,2404000
+mahindra reva,e2o plus,2019,petrol,automatic,56675,1197,1,23,2180000
+mahindra reva,e2o plus,2020,electric,automatic,137573,1598,1,446,1350000
+mahindra reva,e2o,2020,hybrid,automatic,34920,2494,4,12.8,2172000
+mahindra reva,e2o plus,2022,petrol,manual,135149,998,4,14.9,2487000
+mahindra reva,e2o,2025,diesel,automatic,165703,1497,4,25.8,2745000
+mahindra reva,e2o,2019,hybrid,automatic,12253,2198,3,12.7,2971000
+mahindra reva,e2o,2026,petrol,manual,97645,998,3,10,5487000
+mahindra reva,e2o plus,2016,hybrid,automatic,34915,1998,2,14.1,1635000
+mahindra reva,e2o plus,2015,hybrid,automatic,36054,1197,2,14.3,1549000
+mahindra reva,e2o,2026,hybrid,manual,162646,2494,3,16.7,4410000
+maruti suzuki nexa,xl6,2012,cng,manual,149687,1248,2,15.3,225000
+maruti suzuki nexa,ciaz,2018,petrol,manual,58700,2998,3,26.4,355000
+maruti suzuki nexa,ignis,2025,diesel,automatic,70499,1598,3,20,1230000
+maruti suzuki nexa,ignis,2013,hybrid,automatic,175339,1998,2,21.9,378000
+maruti suzuki nexa,xl6,2015,diesel,automatic,29369,1998,3,10.8,685000
+maruti suzuki nexa,jimny,2022,diesel,automatic,76411,1396,3,27.4,799000
+maruti suzuki nexa,ignis,2024,petrol,automatic,32299,1998,4,27.9,966000
+maruti suzuki nexa,ignis,2013,hybrid,manual,52315,1998,4,10.7,150000
+maruti suzuki nexa,ciaz,2013,cng,manual,97929,1248,2,24.9,579000
+maruti suzuki nexa,jimny,2018,diesel,manual,115558,2494,2,14.3,1082000
+maruti suzuki nexa,jimny,2021,diesel,manual,140322,1197,4,15.2,448000
+maruti suzuki nexa,xl6,2026,cng,manual,153527,3498,1,11.9,668000
